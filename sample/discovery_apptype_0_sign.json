@@ -151,7 +151,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 76,
                             "position": "static",
-                            "text": "从你的全世界路过：让所有人心动的故事",
+                            "text": "我等待，置我于死地的爱情",
                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                             "height": 32
                           },
@@ -213,7 +213,7 @@
             "width": 375,
             "position": "static",
             "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-            "height": 238
+            "height": 195
           },
           "children": {
             "body>DIV.mod-card.is-nomargin.is-nopadding[data-page=\"sign\"]>DIV.mod-sign[data-view^=\"usercenter/sign\"]>DIV.mod-sign-today": {
@@ -318,7 +318,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 134,
                             "position": "static",
-                            "text": "40",
+                            "text": "10",
                             "font": "normal normal normal normal 40px / 40px qbnumber",
                             "height": 40
                           },
@@ -343,14 +343,14 @@
                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                 "width": 343,
                 "position": "static",
-                "text": "哇噻！周一签到奖励翻倍啦！",
+                "text": "今日签到已获得",
                 "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                 "height": 20
               },
               "height": 20
             },
             "body>DIV.mod-card.is-nomargin.is-nopadding[data-page=\"sign\"]>DIV.mod-sign[data-view^=\"usercenter/sign\"]>UL": {
-              "index": 3,
+              "index": 2,
               "selectorIndex": 0,
               "style": {
                 "padding": "0px",
@@ -401,7 +401,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 19,
                             "position": "static",
-                            "text": "29",
+                            "text": "42",
                             "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                             "height": 21
                           },
@@ -415,25 +415,9 @@
                 }
               },
               "height": 44
-            },
-            "body>DIV.mod-card.is-nomargin.is-nopadding[data-page=\"sign\"]>DIV.mod-sign[data-view^=\"usercenter/sign\"]>DIV.mod-sign-tips": {
-              "index": 2,
-              "selectorIndex": 0,
-              "style": {
-                "padding": "0px",
-                "margin": "0px 0px 27px",
-                "color": "rgb(143, 143, 143)",
-                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                "width": 343,
-                "position": "static",
-                "text": "每周一书豆奖励翻倍，最高可获888书豆",
-                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                "height": 16
-              },
-              "height": 16
             }
           },
-          "height": 238
+          "height": 195
         }
       },
       "height": 623

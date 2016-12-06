@@ -349,7 +349,7 @@
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                 "width": 255,
                                 "position": "static",
-                                "text": "你好，闪婚先生",
+                                "text": "离凰",
                                 "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                 "height": 20
                               },
@@ -365,7 +365,7 @@
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                 "width": 257,
                                 "position": "static",
-                                "text": "[都市]叶清灵月静的又一部人气小说，看“闪婚女”与“谎言男”的爱情故事。",
+                                "text": "[宫斗]他是少年天子被迫大婚，她一朝为后却遭遇冷落，后宫妃嫔，各个觊觎后位！",
                                 "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                 "height": 36
                               },
@@ -393,9 +393,9 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(143, 143, 143)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 60,
+                                    "width": 48,
                                     "position": "static",
-                                    "text": "叶清灵月静",
+                                    "text": "猗兰霓裳",
                                     "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 16
                                   },

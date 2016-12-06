@@ -113,10 +113,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "热门新书",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
                           "index": 1,
@@ -144,7 +144,7 @@
                                     "margin": "0px 12px 0px 0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
-                                    "width": 76,
+                                    "width": 75,
                                     "position": "relative",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 100
@@ -158,7 +158,7 @@
                                         "margin": "0px",
                                         "color": "rgb(0, 0, 0)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 76,
+                                        "width": 75,
                                         "position": "absolute",
                                         "text": "",
                                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -177,10 +177,10 @@
                                     "margin": "0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 255,
+                                    "width": 256,
                                     "position": "static",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 95
+                                    "height": 96
                                   },
                                   "children": {
                                     "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
@@ -191,9 +191,9 @@
                                         "margin": "0px",
                                         "color": "rgb(36, 36, 36)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 255,
+                                        "width": 256,
                                         "position": "static",
-                                        "text": "神荒龙帝",
+                                        "text": "超凡传",
                                         "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 20
                                       },
@@ -207,7 +207,7 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
@@ -221,9 +221,9 @@
                                             "margin": "0px 8px 0px 0px",
                                             "color": "rgb(143, 143, 143)",
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                            "width": 36,
+                                            "width": 24,
                                             "position": "static",
-                                            "text": "妖月夜",
+                                            "text": "萧潜",
                                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
                                           },
@@ -240,16 +240,16 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
-                                        "text": "[玄幻]远古时期，神魔大战，天地崩碎！人族少年炼真龙之体，闯神荒，探帝墓，天地因他而变！",
+                                        "text": "[玄幻]名家肖潜作品。身怀衍修至宝，又得道家老怪帮助，一路修行，修真图卷徐徐展开。",
                                         "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                        "height": 35
+                                        "height": 36
                                       },
-                                      "height": 35
+                                      "height": 36
                                     }
                                   },
-                                  "height": 95
+                                  "height": 96
                                 }
                               },
                               "height": 132
@@ -291,10 +291,10 @@
                           "height": 44
                         }
                       },
-                      "height": 882
+                      "height": 880
                     }
                   },
-                  "height": 882
+                  "height": 880
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]": {
                   "index": 2,
@@ -445,7 +445,7 @@
                                     "margin": "0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 255,
+                                    "width": 256,
                                     "position": "static",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 96
@@ -459,7 +459,7 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
@@ -475,7 +475,7 @@
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                             "width": 36,
                                             "position": "static",
-                                            "text": "金三角",
+                                            "text": "傲无常",
                                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
                                           },
@@ -492,9 +492,9 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
-                                        "text": "[爽文]这是一个超级兵王被逆推的故事，也是老板娘变新娘的故事！金钱与老板娘能否得兼？",
+                                        "text": "[风流]“孤寡女妖送温暖”、“人妖和平共处知识全面普及”这是一个人妖共处的特殊时代。",
                                         "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 36
                                       },
@@ -508,9 +508,9 @@
                                         "margin": "0px",
                                         "color": "rgb(36, 36, 36)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 255,
+                                        "width": 256,
                                         "position": "static",
-                                        "text": "我的极品美女老板娘",
+                                        "text": "我的邻居是女妖",
                                         "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 20
                                       },
@@ -527,7 +527,7 @@
                                     "margin": "0px 12px 0px 0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
-                                    "width": 76,
+                                    "width": 75,
                                     "position": "relative",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 100
@@ -541,7 +541,7 @@
                                         "margin": "0px",
                                         "color": "rgb(0, 0, 0)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 76,
+                                        "width": 75,
                                         "position": "absolute",
                                         "text": "",
                                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -602,16 +602,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "分类佳作",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 882
+                      "height": 880
                     }
                   },
-                  "height": 882
+                  "height": 880
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]": {
                   "index": 9,
@@ -624,7 +624,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 244
+                    "height": 242
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card": {
@@ -638,7 +638,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 244
+                        "height": 242
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>H1": {
@@ -652,10 +652,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "热门大神",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>DIV.mod-view--all": {
                           "index": 2,
@@ -791,10 +791,10 @@
                           "height": 154
                         }
                       },
-                      "height": 244
+                      "height": 242
                     }
                   },
-                  "height": 244
+                  "height": 242
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]": {
                   "index": 10,
@@ -815,10 +815,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "活动专题",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col": {
                           "index": 1,
@@ -862,7 +862,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 168,
                                         "position": "static",
-                                        "text": "万圣节写恐怖故事",
+                                        "text": "热门小说限时免费看",
                                         "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 18
                                       },
@@ -944,10 +944,10 @@
                           "height": 44
                         }
                       },
-                      "height": 397
+                      "height": 395
                     }
                   },
-                  "height": 397
+                  "height": 395
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]": {
                   "index": 4,
@@ -1034,10 +1034,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "精品推荐",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
                           "index": 2,
@@ -1065,7 +1065,7 @@
                                     "margin": "0px 12px 0px 0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
-                                    "width": 76,
+                                    "width": 75,
                                     "position": "relative",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 100
@@ -1079,7 +1079,7 @@
                                         "margin": "0px",
                                         "color": "rgb(0, 0, 0)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 76,
+                                        "width": 75,
                                         "position": "absolute",
                                         "text": "",
                                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1098,10 +1098,10 @@
                                     "margin": "0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 255,
+                                    "width": 256,
                                     "position": "static",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 95
+                                    "height": 96
                                   },
                                   "children": {
                                     "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
@@ -1112,9 +1112,9 @@
                                         "margin": "0px",
                                         "color": "rgb(36, 36, 36)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 255,
+                                        "width": 256,
                                         "position": "static",
-                                        "text": "凌天战尊",
+                                        "text": "飞天",
                                         "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 20
                                       },
@@ -1128,13 +1128,13 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
-                                        "text": "[玄幻]地球最强兵王魂穿异世，融轮回武帝记忆，修《九龙战尊诀》，所向披靡，战威无可敌！",
+                                        "text": "[幻修]七情六欲，佛谛如来，任你法力无边！既无路，任它血海，白骨化舟，一飞冲天！",
                                         "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                        "height": 35
+                                        "height": 36
                                       },
-                                      "height": 35
+                                      "height": 36
                                     },
                                     "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
                                       "index": 2,
@@ -1144,7 +1144,7 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
@@ -1160,7 +1160,7 @@
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                             "width": 36,
                                             "position": "static",
-                                            "text": "风轻扬",
+                                            "text": "跃千愁",
                                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
                                           },
@@ -1170,7 +1170,7 @@
                                       "height": 16
                                     }
                                   },
-                                  "height": 95
+                                  "height": 96
                                 }
                               },
                               "height": 132
@@ -1179,10 +1179,10 @@
                           "height": 792
                         }
                       },
-                      "height": 929
+                      "height": 927
                     }
                   },
-                  "height": 929
+                  "height": 927
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]": {
                   "index": 0,
@@ -1335,10 +1335,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "猜你喜欢",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>DIV.mod-view--all[data-selector^=\"more\"]": {
                           "index": 2,
@@ -1448,7 +1448,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 88,
                                         "position": "static",
-                                        "text": "三米半",
+                                        "text": "锕浔",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -1464,7 +1464,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 90,
                                         "position": "static",
-                                        "text": "我的极品美女总裁",
+                                        "text": "我等待，置我于死地的爱情",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 32
                                       },
@@ -1477,13 +1477,13 @@
                               "height": 193
                             }
                           },
-                          "height": 386
+                          "height": 402
                         }
                       },
-                      "height": 476
+                      "height": 490
                     }
                   },
-                  "height": 476
+                  "height": 490
                 },
                 "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]": {
                   "index": 1,
@@ -1521,7 +1521,7 @@
                             "margin": "0px",
                             "color": "rgb(0, 0, 0)",
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                            "width": 44,
+                            "width": 28,
                             "position": "absolute",
                             "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                             "height": 7
@@ -1535,7 +1535,7 @@
                                 "margin": "0px",
                                 "color": "rgb(0, 0, 0)",
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                "width": 44,
+                                "width": 28,
                                 "position": "static",
                                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                 "height": 7
@@ -1587,7 +1587,7 @@
                             "margin": "0px",
                             "color": "rgb(0, 0, 0)",
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                            "width": 1875,
+                            "width": 1125,
                             "position": "relative",
                             "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                             "height": 128
@@ -2253,10 +2253,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "畅销推荐",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
                           "index": 1,
@@ -2284,7 +2284,7 @@
                                     "margin": "0px 12px 0px 0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
-                                    "width": 76,
+                                    "width": 75,
                                     "position": "relative",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 100
@@ -2298,7 +2298,7 @@
                                         "margin": "0px",
                                         "color": "rgb(0, 0, 0)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 76,
+                                        "width": 75,
                                         "position": "absolute",
                                         "text": "",
                                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -2317,7 +2317,7 @@
                                     "margin": "0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 255,
+                                    "width": 256,
                                     "position": "static",
                                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 96
@@ -2331,9 +2331,9 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
-                                        "text": "[爽文]三妈、四妈、六妈，我滴乖乖，老爹你到底有多少女人？那我一定要青出于蓝而胜于蓝！",
+                                        "text": "[爽文]月黑风高的夜晚他捡到一个性感妖艳的美女，于是他那风骚起伏的人生开始了！",
                                         "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 36
                                       },
@@ -2347,9 +2347,9 @@
                                         "margin": "0px",
                                         "color": "rgb(36, 36, 36)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 255,
+                                        "width": 256,
                                         "position": "static",
-                                        "text": "极品逍遥大少爷",
+                                        "text": "捡个杀手做老婆",
                                         "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 20
                                       },
@@ -2363,7 +2363,7 @@
                                         "margin": "12px -2px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 257,
+                                        "width": 258,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
@@ -2377,9 +2377,9 @@
                                             "margin": "0px 8px 0px 0px",
                                             "color": "rgb(143, 143, 143)",
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                            "width": 48,
+                                            "width": 52,
                                             "position": "static",
-                                            "text": "俺是老王",
+                                            "text": "花刺1913",
                                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
                                           },
@@ -2431,19 +2431,19 @@
                           "height": 44
                         }
                       },
-                      "height": 882
+                      "height": 880
                     }
                   },
-                  "height": 882
+                  "height": 880
                 }
               },
-              "height": 5244
+              "height": 5246
             }
           },
-          "height": 5244
+          "height": 5246
         }
       },
-      "height": 5244
+      "height": 5246
     },
     "body>#page-footer": {
       "index": 13,

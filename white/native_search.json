@@ -2,5 +2,6 @@
   "body>#bookSearchPage>DIV[data-selector^=\"search-result-list\"]>DIV[data-selector^=\"search-direct\"]>DIV.mod-card.is-mod-search-result>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN": {
     "color": "rgb(170, 170, 170)",
     "problem_index": 0
-  }
+  },  "body>#bookSearchPage>DIV[data-selector^=\"search-result-list\"]>DIV[data-selector^=\"search-direct\"]>DIV.mod-card.is-mod-search-result>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>A": "ignore",
+  "body>#bookSearchPage>DIV[data-selector^=\"search-result-list\"]>DIV[data-selector^=\"search-direct\"]>DIV.mod-card.is-mod-search-result>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN.mod-book--discount": "ignore"
 }

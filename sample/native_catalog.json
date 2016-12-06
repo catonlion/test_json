@@ -78,7 +78,7 @@
                 "width": 375,
                 "position": "static",
                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                "height": 216
+                "height": 214
               },
               "children": {
                 "body>#bookIntroPage>SECTION.shelf-page>#readOther>DIV.mod-card": {
@@ -92,7 +92,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 216
+                    "height": 214
                   },
                   "children": {
                     "body>#bookIntroPage>SECTION.shelf-page>#readOther>DIV.mod-card>UL.mod-book4col.is-has--height": {
@@ -120,7 +120,7 @@
                             "width": 90,
                             "position": "static",
                             "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 122
+                            "height": 138
                           },
                           "children": {
                             "body>#bookIntroPage>SECTION.shelf-page>#readOther>DIV.mod-card>UL.mod-book4col.is-has--height>LI>DIV.mod-img--wrap": {
@@ -167,7 +167,7 @@
                                 "width": 74,
                                 "position": "static",
                                 "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 16
+                                "height": 32
                               },
                               "children": {
                                 "body>#bookIntroPage>SECTION.shelf-page>#readOther>DIV.mod-card>UL.mod-book4col.is-has--height>LI>DIV.mod-book4col-info>H1": {
@@ -180,17 +180,17 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                     "width": 76,
                                     "position": "static",
-                                    "text": "神魔天尊",
+                                    "text": "异世界的美食家",
                                     "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
+                                    "height": 32
                                   },
-                                  "height": 16
+                                  "height": 32
                                 }
                               },
-                              "height": 16
+                              "height": 32
                             }
                           },
-                          "height": 122
+                          "height": 138
                         }
                       },
                       "height": 170
@@ -205,8 +205,8 @@
                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                         "width": 343,
                         "position": "relative",
-                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 46
+                        "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 44
                       },
                       "children": {
                         "body>#bookIntroPage>SECTION.shelf-page>#readOther>DIV.mod-card>H1.is-single-line-title>SPAN.more-btn[data-selector^=\"more\"]": {
@@ -243,13 +243,13 @@
                           "height": 17
                         }
                       },
-                      "height": 46
+                      "height": 44
                     }
                   },
-                  "height": 216
+                  "height": 214
                 }
               },
-              "height": 216
+              "height": 214
             },
             "body>#bookIntroPage>SECTION.shelf-page>#cardBanner": {
               "index": 6,
@@ -289,7 +289,7 @@
                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                         "width": 343,
                         "position": "static",
-                        "text": "诸位大神狂撒红包 还有iPhone7哟",
+                        "text": "骑天下最烈的马，睡天下最美的人",
                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                         "height": 17
                       },
@@ -398,17 +398,17 @@
                                     "height": 16
                                   },
                                   "children": {
-                                    "body>#bookIntroPage>SECTION.shelf-page>#introInfo>DIV.mod-book--detail[data-selector^=\"template-intro_info\"]>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>A": {
+                                    "body>#bookIntroPage>SECTION.shelf-page>#introInfo>DIV.mod-book--detail[data-selector^=\"template-intro_info\"]>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN": {
                                       "index": 0,
                                       "selectorIndex": 0,
                                       "style": {
                                         "padding": "0px 8px 0px 0px",
                                         "margin": "0px",
-                                        "color": "rgb(76, 154, 250)",
-                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
-                                        "width": 80,
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 32,
                                         "position": "static",
-                                        "text": "畅读卡使用中",
+                                        "text": "免费",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -494,7 +494,7 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                     "width": 60,
                                     "position": "static",
-                                    "text": "2498人评",
+                                    "text": "2833人评",
                                     "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 16
                                   },
@@ -1028,7 +1028,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 105,
                             "position": "static",
-                            "text": "25387",
+                            "text": "31371",
                             "font": "normal normal normal normal 24px / 24px STHeitiSC-Light",
                             "height": 24
                           },
@@ -1077,7 +1077,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 105,
                             "position": "static",
-                            "text": "8030",
+                            "text": "9801",
                             "font": "normal normal normal normal 24px / 24px STHeitiSC-Light",
                             "height": 24
                           },
@@ -1132,7 +1132,7 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
                                     "width": 375,
                                     "position": "static",
-                                    "text": "全部书评(2719)",
+                                    "text": "全部书评(3062)",
                                     "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 44
                                   },
@@ -1379,16 +1379,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "精彩书评",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 746
+                      "height": 744
                     }
                   },
-                  "height": 746
+                  "height": 744
                 },
                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter": {
                   "index": 0,
@@ -1404,8 +1404,8 @@
                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                         "width": 343,
                         "position": "relative",
-                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 46
+                        "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 44
                       },
                       "children": {
                         "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>H1.intro-title>#catalogOrder": {
@@ -1474,7 +1474,7 @@
                           "height": 16
                         }
                       },
-                      "height": 46
+                      "height": 44
                     },
                     "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList": {
                       "index": 1,
@@ -1506,29 +1506,13 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第1章 沐家少年",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 48
                                   },
                                   "height": 48
-                                },
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark1>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
                                 }
                               },
                               "height": 48
@@ -1547,22 +1531,6 @@
                                 "height": 48
                               },
                               "children": {
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark3>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
-                                },
                                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark3>SPAN.chapter-title": {
                                   "index": 0,
                                   "selectorIndex": 0,
@@ -1571,7 +1539,7 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第3章 龙牙匕",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1596,22 +1564,6 @@
                                 "height": 48
                               },
                               "children": {
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark2>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
-                                },
                                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark2>SPAN.chapter-title": {
                                   "index": 0,
                                   "selectorIndex": 0,
@@ -1620,7 +1572,7 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第2章 滚出沐家！",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1653,29 +1605,13 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第5章 往事",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 48
                                   },
                                   "height": 48
-                                },
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark5>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
                                 }
                               },
                               "height": 48
@@ -1694,22 +1630,6 @@
                                 "height": 48
                               },
                               "children": {
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark4>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
-                                },
                                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark4>SPAN.chapter-title": {
                                   "index": 0,
                                   "selectorIndex": 0,
@@ -1718,7 +1638,7 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第4章 挑衅与拼命",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1743,22 +1663,6 @@
                                 "height": 48
                               },
                               "children": {
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark7>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
-                                },
                                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark7>SPAN.chapter-title": {
                                   "index": 0,
                                   "selectorIndex": 0,
@@ -1767,7 +1671,7 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第7章 觉醒坛",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1792,22 +1696,6 @@
                                 "height": 48
                               },
                               "children": {
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark10>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
-                                },
                                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark10>SPAN.chapter-title": {
                                   "index": 0,
                                   "selectorIndex": 0,
@@ -1816,7 +1704,7 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第10章 反目",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -1849,29 +1737,13 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第6章 谁出声，谁便是疯狗！",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 48
                                   },
                                   "height": 48
-                                },
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark6>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
                                 }
                               },
                               "height": 48
@@ -1898,29 +1770,13 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第9章 九炎火灵",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 48
                                   },
                                   "height": 48
-                                },
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark9>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
                                 }
                               },
                               "height": 48
@@ -1947,29 +1803,13 @@
                                     "margin": "0px 8px 0px 0px",
                                     "color": "rgb(36, 36, 36)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 289,
+                                    "width": 335,
                                     "position": "static",
                                     "text": "第8章 八色，银炎",
                                     "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 48
                                   },
                                   "height": 48
-                                },
-                                "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark8>SPAN.free": {
-                                  "index": 1,
-                                  "selectorIndex": 0,
-                                  "style": {
-                                    "padding": "0px",
-                                    "margin": "0px 8px 0px 0px",
-                                    "color": "rgb(232, 118, 70)",
-                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 38,
-                                    "position": "static",
-                                    "text": "畅读",
-                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 16
-                                  },
-                                  "height": 16
                                 }
                               },
                               "height": 48
@@ -2190,7 +2030,7 @@
                       "height": 533
                     }
                   },
-                  "height": 579
+                  "height": 577
                 },
                 "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>#circleAccess": {
                   "index": 1,
@@ -2318,7 +2158,7 @@
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                             "width": 52,
                                             "position": "static",
-                                            "text": "2303圈友",
+                                            "text": "2776圈友",
                                             "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
                                           },
@@ -2397,7 +2237,7 @@
                   "height": 96
                 }
               },
-              "height": 1445
+              "height": 1441
             },
             "body>#bookIntroPage>SECTION.shelf-page>#sameAuthor": {
               "index": 4,
@@ -2410,7 +2250,7 @@
                 "width": 375,
                 "position": "static",
                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                "height": 200
+                "height": 198
               },
               "children": {
                 "body>#bookIntroPage>SECTION.shelf-page>#sameAuthor>DIV.mod-card": {
@@ -2424,7 +2264,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 200
+                    "height": 198
                   },
                   "children": {
                     "body>#bookIntroPage>SECTION.shelf-page>#sameAuthor>DIV.mod-card>H1.is-single-line-title": {
@@ -2438,10 +2278,10 @@
                         "width": 343,
                         "position": "relative",
                         "text": "作者还写过",
-                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 46
+                        "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 44
                       },
-                      "height": 46
+                      "height": 44
                     },
                     "body>#bookIntroPage>SECTION.shelf-page>#sameAuthor>DIV.mod-card>UL.mod-book4col": {
                       "index": 1,
@@ -2544,16 +2384,16 @@
                       "height": 154
                     }
                   },
-                  "height": 200
+                  "height": 198
                 }
               },
-              "height": 200
+              "height": 198
             }
           },
-          "height": 2577
+          "height": 2569
         }
       },
-      "height": 2577
+      "height": 2569
     }
   }
 }

@@ -1,0 +1,7 @@
+{
+  "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.is-recharge>H1>SPAN": {
+    "width": "ignore",
+    "height": "ignore",
+    "problem_index": 0
+  }
+}

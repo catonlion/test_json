@@ -15,7 +15,7 @@
             "width": 375,
             "position": "static",
             "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-            "height": 199
+            "height": 215
           },
           "children": {
             "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"bookstore/read_other\"]>DIV.mod-card": {
@@ -29,7 +29,7 @@
                 "width": 375,
                 "position": "static",
                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                "height": 199
+                "height": 215
               },
               "children": {
                 "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"bookstore/read_other\"]>DIV.mod-card>H1.is-single-line-title": {
@@ -93,7 +93,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 153
+                    "height": 169
                   },
                   "children": {
                     "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"bookstore/read_other\"]>DIV.mod-card>UL.mod-book4col>LI": {
@@ -107,7 +107,7 @@
                         "width": 90,
                         "position": "static",
                         "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 121
+                        "height": 137
                       },
                       "children": {
                         "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"bookstore/read_other\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
@@ -154,7 +154,7 @@
                             "width": 74,
                             "position": "static",
                             "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 16
+                            "height": 32
                           },
                           "children": {
                             "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"bookstore/read_other\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-gods4col--info>H1": {
@@ -167,26 +167,26 @@
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                 "width": 76,
                                 "position": "static",
-                                "text": "武动乾坤",
+                                "text": "传奇弃少之混沌至尊",
                                 "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 16
+                                "height": 32
                               },
-                              "height": 16
+                              "height": 32
                             }
                           },
-                          "height": 16
+                          "height": 32
                         }
                       },
-                      "height": 121
+                      "height": 137
                     }
                   },
-                  "height": 153
+                  "height": 169
                 }
               },
-              "height": 199
+              "height": 215
             }
           },
-          "height": 199
+          "height": 215
         },
         "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"comment/end\"]": {
           "index": 0,
@@ -199,7 +199,7 @@
             "width": 375,
             "position": "static",
             "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-            "height": 258
+            "height": 278
           },
           "children": {
             "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"comment/end\"]>DIV.mod-end": {
@@ -213,7 +213,7 @@
                 "width": 375,
                 "position": "static",
                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                "height": 258
+                "height": 278
               },
               "children": {
                 "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"comment/end\"]>DIV.mod-end>P.comment-selected": {
@@ -226,11 +226,11 @@
                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                     "width": 255,
                     "position": "relative",
-                    "text": "这是一位作者的心血 不喜欢可以不看 请不要糟蹋 但我觉得还可以",
+                    "text": "斗三已经城市化了，没有斗一和斗二的感觉，魂兽也没有以前的感觉，不过如果我先看的是斗三而不是斗二斗一，可能会认为这本书挺好看",
                     "font": "normal normal normal normal 12px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 40
+                    "height": 60
                   },
-                  "height": 40
+                  "height": 60
                 },
                 "body>DIV.mod-card.is-nomargin[data-page=\"afterread\"]>DIV[data-view^=\"comment/end\"]>DIV.mod-end>H1": {
                   "index": 0,
@@ -381,13 +381,13 @@
                   "height": 36
                 }
               },
-              "height": 258
+              "height": 278
             }
           },
-          "height": 258
+          "height": 278
         }
       },
-      "height": 441
+      "height": 477
     },
     "body>#bartitle": {
       "index": 0,

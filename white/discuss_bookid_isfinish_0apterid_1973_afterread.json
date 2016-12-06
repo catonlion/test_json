@@ -1,5 +1,6 @@
 {
   "body>DIV[data-page=\"afterread\"]>DIV[data-view^=\"afterread/card_post\"]>DIV.mod-card>UL.mod-hot-post>LI>DIV.main>H1": {
-    "width": 260
-  }
+    "width": "ignore"
+  },
+  "body>DIV[data-page=\"afterread\"]>DIV[data-view^=\"afterread/card_post\"]>DIV.mod-card>UL.mod-hot-post>LI>DIV.main>H1>STRONG": "ignore"
 }

@@ -77,7 +77,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 209
+                    "height": 207
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_3_classify_card\"]>DIV.mod-card.is-nomargin": {
@@ -91,7 +91,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 209
+                        "height": 207
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_3_classify_card\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
@@ -155,16 +155,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "热搜题材",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 209
+                      "height": 207
                     }
                   },
-                  "height": 209
+                  "height": 207
                 },
                 "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_1_classify_card\"]": {
                   "index": 1,
@@ -177,7 +177,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 209
+                    "height": 207
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_1_classify_card\"]>DIV.mod-card.is-nomargin": {
@@ -191,7 +191,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 209
+                        "height": 207
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_1_classify_card\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
@@ -255,16 +255,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "女生热搜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 209
+                      "height": 207
                     }
                   },
-                  "height": 209
+                  "height": 207
                 },
                 "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_0_classify_card\"]": {
                   "index": 0,
@@ -277,7 +277,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 295
+                    "height": 293
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_0_classify_card\"]>DIV.mod-card.is-nomargin": {
@@ -291,7 +291,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 295
+                        "height": 293
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_0_classify_card\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
@@ -355,16 +355,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "男生热搜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 295
+                      "height": 293
                     }
                   },
-                  "height": 295
+                  "height": 293
                 },
                 "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_2_classify_card\"]": {
                   "index": 2,
@@ -377,7 +377,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 295
+                    "height": 293
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_2_classify_card\"]>DIV.mod-card.is-nomargin": {
@@ -391,7 +391,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 295
+                        "height": 293
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_2_classify_card\"]>DIV.mod-card.is-nomargin>H1": {
@@ -405,10 +405,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "出版书热搜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_fenlei>DIV[data-selector^=\"_fenlei_2_classify_card\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
                           "index": 1,
@@ -461,19 +461,19 @@
                           "height": 249
                         }
                       },
-                      "height": 295
+                      "height": 293
                     }
                   },
-                  "height": 295
+                  "height": 293
                 }
               },
-              "height": 1008
+              "height": 1000
             }
           },
-          "height": 1008
+          "height": 1000
         }
       },
-      "height": 1008
+      "height": 1000
     },
     "body>#page-footer": {
       "index": 13,

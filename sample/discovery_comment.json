@@ -150,7 +150,7 @@
                                     "margin": "0px",
                                     "color": "rgb(170, 170, 170)",
                                     "background": "rgb(255, 170, 13) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 64,
+                                    "width": 63,
                                     "position": "static",
                                     "text": "",
                                     "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
@@ -324,7 +324,7 @@
                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                             "width": 45,
                             "position": "static",
-                            "text": "3.9",
+                            "text": "3.8",
                             "font": "normal normal normal normal 32.04px / 32.04px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                             "height": 42
                           },
@@ -389,7 +389,7 @@
                                 "width": 343,
                                 "position": "relative",
                                 "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 124
+                                "height": 172
                               },
                               "children": {
                                 "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.avatar": {
@@ -436,7 +436,7 @@
                                     "width": 303,
                                     "position": "relative",
                                     "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 92
+                                    "height": 140
                                   },
                                   "children": {
                                     "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-info": {
@@ -539,9 +539,9 @@
                                                     "margin": "0px",
                                                     "color": "rgb(143, 143, 143)",
                                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                                    "width": 70,
+                                                    "width": 22,
                                                     "position": "static",
-                                                    "text": "久郁成欢@",
+                                                    "text": ".          伴",
                                                     "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                                     "height": 18
                                                   },
@@ -633,7 +633,7 @@
                                         "width": 303,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                        "height": 28
+                                        "height": 76
                                       },
                                       "children": {
                                         "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-main>P.txt": {
@@ -646,29 +646,29 @@
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                             "width": 303,
                                             "position": "static",
-                                            "text": "一般般，不精彩",
+                                            "text": "从没有看过外挂这么牛，BUG这么多，副本这么简单的书，哎，我还跟白痴一样竟然看完了？我的有多无聊",
                                             "font": "normal normal normal normal 16px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                            "height": 24
+                                            "height": 72
                                           },
-                                          "height": 24
+                                          "height": 72
                                         }
                                       },
-                                      "height": 28
+                                      "height": 76
                                     }
                                   },
-                                  "height": 92
+                                  "height": 140
                                 }
                               },
-                              "height": 124
+                              "height": 172
                             }
                           },
-                          "height": 5416
+                          "height": 5248
                         }
                       },
-                      "height": 5416
+                      "height": 5248
                     }
                   },
-                  "height": 5462
+                  "height": 5294
                 },
                 "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-loading.relative[data-selector^=\"pull_loading\"]": {
                   "index": 2,
@@ -721,10 +721,10 @@
                   "height": 36
                 }
               },
-              "height": 5510
+              "height": 5342
             }
           },
-          "height": 5510
+          "height": 5342
         },
         "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"comment/book_discuss\"]": {
           "index": 2,
@@ -841,7 +841,7 @@
                                         "margin": "0px",
                                         "color": "rgb(102, 102, 102)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 39,
+                                        "width": 46,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 42
@@ -855,7 +855,7 @@
                                             "margin": "0px",
                                             "color": "rgb(102, 102, 102)",
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
-                                            "width": 39,
+                                            "width": 46,
                                             "position": "static",
                                             "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 16
@@ -891,7 +891,7 @@
                                         "margin": "0px",
                                         "color": "rgb(0, 0, 0)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 264,
+                                        "width": 257,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 42
@@ -905,7 +905,7 @@
                                             "margin": "0px",
                                             "color": "rgb(0, 0, 0)",
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                            "width": 264,
+                                            "width": 257,
                                             "position": "relative",
                                             "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 20
@@ -955,7 +955,7 @@
                                             "margin": "0px 12px 0px 0px",
                                             "color": "rgb(0, 0, 0)",
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                            "width": 252,
+                                            "width": 245,
                                             "position": "static",
                                             "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                             "height": 22
@@ -1054,7 +1054,7 @@
           "height": 782
         }
       },
-      "height": 6540
+      "height": 6372
     }
   }
 }

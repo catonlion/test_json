@@ -85,7 +85,7 @@
                             "width": 375,
                             "position": "static",
                             "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 123
+                            "height": 164
                           },
                           "children": {
                             "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>H1": {
@@ -99,10 +99,10 @@
                                 "width": 343,
                                 "position": "relative",
                                 "text": "2016年11月",
-                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 46
+                                "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
                               },
-                              "height": 46
+                              "height": 44
                             },
                             "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
                               "index": 1,
@@ -115,7 +115,7 @@
                                 "width": 375,
                                 "position": "static",
                                 "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 77
+                                "height": 120
                               },
                               "children": {
                                 "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col>LI": {
@@ -152,13 +152,13 @@
                                   "height": 43
                                 }
                               },
-                              "height": 77
+                              "height": 120
                             }
                           },
-                          "height": 123
+                          "height": 164
                         }
                       },
-                      "height": 1076
+                      "height": 1105
                     },
                     "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>DIV.mod-nav": {
                       "index": 0,
@@ -227,16 +227,16 @@
                       "height": 44
                     }
                   },
-                  "height": 1120
+                  "height": 1149
                 }
               },
-              "height": 1120
+              "height": 1149
             }
           },
-          "height": 1120
+          "height": 1149
         }
       },
-      "height": 1120
+      "height": 1149
     }
   }
 }

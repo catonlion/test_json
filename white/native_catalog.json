@@ -1,3 +1,12 @@
 {
-  "body>#bookIntroPage>SECTION.shelf-page>#introInfo>DIV.mod-book--detail[data-selector^=\"template-intro_info\"]>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN": "ignore"
+  "body>#bookIntroPage>SECTION.shelf-page>#introInfo>DIV.mod-book--detail[data-selector^=\"template-intro_info\"]>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN": "ignore",
+  "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark1>SPAN.chapter-title": {
+    "width": 335,
+    "problem_index": 0
+  },
+  "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark1>SPAN.free": "ignore",
+  "body>#bookIntroPage>SECTION.shelf-page>#introCatalog>DIV.mod-card.mod-book--chapter>#catalogList>#chapterList>#bookmark10>SPAN.chapter-title": {
+    "width": 335,
+    "problem_index": 1
+  }
 }

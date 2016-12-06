@@ -287,7 +287,7 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                     "width": 270,
                                     "position": "static",
-                                    "text": "连载至：第700章 横岭关（一）",
+                                    "text": "连载至：第711章 土豪的苏长官",
                                     "font": "normal normal normal normal 12px / 14px \"microsoft yahei\", Helvetica",
                                     "height": 14
                                   },
@@ -300,13 +300,13 @@
                           "height": 114
                         }
                       },
-                      "height": 342
+                      "height": 1140
                     }
                   },
-                  "height": 342
+                  "height": 1140
                 }
               },
-              "height": 619
+              "height": 1140
             },
             "body>#divBookShelf>#secBookShelf>DIV.change-mode.shelf-list-mode": {
               "index": 1,
@@ -375,7 +375,7 @@
               "height": 65
             }
           },
-          "height": 684
+          "height": 1205
         },
         "body>#divBookShelf>HEADER.main-header": {
           "index": 0,
@@ -494,7 +494,7 @@
           "height": 48
         }
       },
-      "height": 732
+      "height": 1253
     },
     "body>#page-footer": {
       "index": 9,

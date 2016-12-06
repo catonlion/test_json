@@ -208,9 +208,9 @@
                                 "margin": "0px 3px 0px -2px",
                                 "color": "rgb(232, 118, 70)",
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                "width": 53,
+                                "width": 59,
                                 "position": "static",
-                                "text": "970",
+                                "text": "460",
                                 "font": "normal normal normal normal 36.008px / 31px qbnumber",
                                 "height": 50
                               },

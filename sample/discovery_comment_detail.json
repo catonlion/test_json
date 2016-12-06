@@ -341,7 +341,7 @@
                                 "margin": "0px",
                                 "color": "rgb(102, 102, 102)",
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                "width": 39,
+                                "width": 46,
                                 "position": "static",
                                 "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                 "height": 42
@@ -355,7 +355,7 @@
                                     "margin": "0px",
                                     "color": "rgb(102, 102, 102)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
-                                    "width": 39,
+                                    "width": 46,
                                     "position": "static",
                                     "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 16
@@ -391,7 +391,7 @@
                                 "margin": "0px",
                                 "color": "rgb(0, 0, 0)",
                                 "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                "width": 264,
+                                "width": 257,
                                 "position": "static",
                                 "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                 "height": 42
@@ -405,7 +405,7 @@
                                     "margin": "0px 12px 0px 0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 252,
+                                    "width": 245,
                                     "position": "static",
                                     "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 22
@@ -438,7 +438,7 @@
                                     "margin": "0px",
                                     "color": "rgb(0, 0, 0)",
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                    "width": 264,
+                                    "width": 257,
                                     "position": "relative",
                                     "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 20

@@ -720,19 +720,19 @@
                     "width": 343,
                     "position": "relative",
                     "text": "粉丝榜",
-                    "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 46
+                    "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 44
                   },
-                  "height": 46
+                  "height": 44
                 }
               },
-              "height": 498
+              "height": 496
             }
           },
-          "height": 498
+          "height": 496
         }
       },
-      "height": 843
+      "height": 841
     }
   }
 }

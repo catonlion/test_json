@@ -77,7 +77,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 280
+                    "height": 278
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card": {
@@ -91,7 +91,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 280
+                        "height": 278
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
@@ -195,7 +195,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 76,
                                         "position": "static",
-                                        "text": "阴尸美人",
+                                        "text": "永恒圣帝",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -211,7 +211,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 74,
                                         "position": "static",
-                                        "text": "琴书骨",
+                                        "text": "千寻月",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -237,10 +237,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "人气飙升榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
                           "index": 2,
@@ -276,10 +276,10 @@
                           "height": 44
                         }
                       },
-                      "height": 280
+                      "height": 278
                     }
                   },
-                  "height": 280
+                  "height": 278
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]": {
                   "index": 4,
@@ -292,7 +292,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 280
+                    "height": 278
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card": {
@@ -306,7 +306,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 280
+                        "height": 278
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
@@ -334,7 +334,7 @@
                                 "width": 90,
                                 "position": "static",
                                 "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 158
+                                "height": 142
                               },
                               "children": {
                                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
@@ -397,7 +397,7 @@
                                     "width": 74,
                                     "position": "static",
                                     "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 52
+                                    "height": 36
                                   },
                                   "children": {
                                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
@@ -410,11 +410,11 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 76,
                                         "position": "static",
-                                        "text": "我的女仆是恶魔",
+                                        "text": "超魔导学园",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                        "height": 32
+                                        "height": 16
                                       },
-                                      "height": 32
+                                      "height": 16
                                     },
                                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
                                       "index": 1,
@@ -426,17 +426,17 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 74,
                                         "position": "static",
-                                        "text": "空明音",
+                                        "text": "云中纸.CS",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
                                       "height": 16
                                     }
                                   },
-                                  "height": 52
+                                  "height": 36
                                 }
                               },
-                              "height": 158
+                              "height": 142
                             }
                           },
                           "height": 190
@@ -452,10 +452,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "书友好评榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
                           "index": 2,
@@ -491,10 +491,10 @@
                           "height": 44
                         }
                       },
-                      "height": 280
+                      "height": 278
                     }
                   },
-                  "height": 280
+                  "height": 278
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]": {
                   "index": 2,
@@ -507,7 +507,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 264
+                    "height": 262
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card": {
@@ -521,7 +521,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 264
+                        "height": 262
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
@@ -700,16 +700,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "免费畅读榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 264
+                      "height": 262
                     }
                   },
-                  "height": 264
+                  "height": 262
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]": {
                   "index": 1,
@@ -722,7 +722,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 280
+                    "height": 278
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card": {
@@ -736,7 +736,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 280
+                        "height": 278
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
@@ -750,10 +750,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "书友推荐榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
                           "index": 1,
@@ -921,10 +921,10 @@
                           "height": 44
                         }
                       },
-                      "height": 280
+                      "height": 278
                     }
                   },
-                  "height": 280
+                  "height": 278
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]": {
                   "index": 7,
@@ -937,7 +937,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 264
+                    "height": 262
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card": {
@@ -951,7 +951,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 264
+                        "height": 262
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
@@ -1039,7 +1039,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 74,
                                         "position": "static",
-                                        "text": "庞飞烟",
+                                        "text": "千寻月",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -1055,7 +1055,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 76,
                                         "position": "static",
-                                        "text": "炎玄九变",
+                                        "text": "斗战圣传",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -1130,16 +1130,16 @@
                             "width": 343,
                             "position": "relative",
                             "text": "完本风云榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         }
                       },
-                      "height": 264
+                      "height": 262
                     }
                   },
-                  "height": 264
+                  "height": 262
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]": {
                   "index": 5,
@@ -1152,7 +1152,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 264
+                    "height": 262
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card": {
@@ -1166,7 +1166,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 264
+                        "height": 262
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
@@ -1180,10 +1180,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "书友留存榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
                           "index": 2,
@@ -1270,7 +1270,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 76,
                                         "position": "static",
-                                        "text": "单兵为王",
+                                        "text": "一念永恒",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -1286,7 +1286,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 74,
                                         "position": "static",
-                                        "text": "七品",
+                                        "text": "耳根",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -1351,10 +1351,10 @@
                           "height": 174
                         }
                       },
-                      "height": 264
+                      "height": 262
                     }
                   },
-                  "height": 264
+                  "height": 262
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]": {
                   "index": 6,
@@ -1367,7 +1367,7 @@
                     "width": 375,
                     "position": "static",
                     "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                    "height": 280
+                    "height": 278
                   },
                   "children": {
                     "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card": {
@@ -1381,7 +1381,7 @@
                         "width": 375,
                         "position": "static",
                         "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                        "height": 280
+                        "height": 278
                       },
                       "children": {
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
@@ -1395,10 +1395,10 @@
                             "width": 343,
                             "position": "relative",
                             "text": "书城热度榜",
-                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 46
+                            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
                           },
-                          "height": 46
+                          "height": 44
                         },
                         "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
                           "index": 1,
@@ -1566,10 +1566,10 @@
                           "height": 44
                         }
                       },
-                      "height": 280
+                      "height": 278
                     }
                   },
-                  "height": 280
+                  "height": 278
                 },
                 "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]": {
                   "index": 0,
@@ -1655,13 +1655,13 @@
                   "height": 44
                 }
               },
-              "height": 2030
+              "height": 2016
             }
           },
-          "height": 2030
+          "height": 2016
         }
       },
-      "height": 2030
+      "height": 2016
     },
     "body>#page-footer": {
       "index": 13,

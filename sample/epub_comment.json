@@ -389,7 +389,7 @@
                                 "width": 343,
                                 "position": "relative",
                                 "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                "height": 124
+                                "height": 148
                               },
                               "children": {
                                 "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.avatar": {
@@ -436,7 +436,7 @@
                                     "width": 303,
                                     "position": "relative",
                                     "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                    "height": 92
+                                    "height": 116
                                   },
                                   "children": {
                                     "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-info": {
@@ -539,9 +539,9 @@
                                                     "margin": "0px",
                                                     "color": "rgb(143, 143, 143)",
                                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                                    "width": 55,
+                                                    "width": 28,
                                                     "position": "static",
-                                                    "text": "□念□初□",
+                                                    "text": "追忆",
                                                     "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                                     "height": 18
                                                   },
@@ -578,7 +578,7 @@
                                                     "height": 12
                                                   },
                                                   "children": {
-                                                    "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-info>DIV.content-info-text>SPAN.mod-5star>SPAN>SPAN": {
+                                                    "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-info>DIV.content-info-text>SPAN.mod-5star>SPAN>SPAN.full": {
                                                       "index": 0,
                                                       "selectorIndex": 0,
                                                       "style": {
@@ -616,7 +616,7 @@
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                         "width": 303,
                                         "position": "static",
-                                        "text": "2小时前",
+                                        "text": "11分钟前",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -633,7 +633,7 @@
                                         "width": 303,
                                         "position": "static",
                                         "font": "normal normal normal normal 12px / 11px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                        "height": 28
+                                        "height": 52
                                       },
                                       "children": {
                                         "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-main>P.txt": {
@@ -646,29 +646,29 @@
                                             "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                             "width": 303,
                                             "position": "static",
-                                            "text": "看了开头就看不下去了，没意思",
+                                            "text": "这本书超棒，我都已经看了3遍了。好！好！好！",
                                             "font": "normal normal normal normal 16px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                                            "height": 24
+                                            "height": 48
                                           },
-                                          "height": 24
+                                          "height": 48
                                         }
                                       },
-                                      "height": 28
+                                      "height": 52
                                     }
                                   },
-                                  "height": 92
+                                  "height": 116
                                 }
                               },
-                              "height": 124
+                              "height": 148
                             }
                           },
-                          "height": 2648
+                          "height": 2644
                         }
                       },
-                      "height": 2648
+                      "height": 2644
                     }
                   },
-                  "height": 2694
+                  "height": 2690
                 },
                 "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-loading.relative[data-selector^=\"pull_loading\"]": {
                   "index": 2,
@@ -721,10 +721,10 @@
                   "height": 36
                 }
               },
-              "height": 2742
+              "height": 2738
             }
           },
-          "height": 2742
+          "height": 2738
         },
         "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"comment/book_discuss\"]": {
           "index": 2,
@@ -1054,7 +1054,7 @@
           "height": 926
         }
       },
-      "height": 3916
+      "height": 3912
     }
   }
 }

@@ -1,0 +1,11 @@
+{
+  "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info": {
+    "height": "ignore",
+    "problem_index": 0
+  },
+  "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info>P": {
+    "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+    "height": "ignore",
+    "problem_index": 1
+  }
+}

@@ -557,7 +557,7 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                     "width": 255,
                                     "position": "static",
-                                    "text": "人性禁岛1：绝战荒岛",
+                                    "text": "剃头匠",
                                     "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 20
                                   },
@@ -585,9 +585,9 @@
                                         "margin": "0px 8px 0px 0px",
                                         "color": "rgb(143, 143, 143)",
                                         "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-                                        "width": 36,
+                                        "width": 48,
                                         "position": "static",
-                                        "text": "破禁果",
+                                        "text": "湘西鬼王",
                                         "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                         "height": 16
                                       },
@@ -606,7 +606,7 @@
                                     "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
                                     "width": 257,
                                     "position": "static",
-                                    "text": "为了躲避追杀，曾经的雇佣兵杀手追马隐匿身份，沉溺于小镇酒馆和女人中间，考在海岛间做贸易维生。一次出海去克罗泽群岛的途中，为救助一个日本女人而杀死几名恶徒。寡不敌众下，他带着日本女人，偷渡上 船的十六岁未婚妻和一个苦命的小女孩，跳船逃生，漂落到了一座荒岛。 命运从此改变！他们要面对鳄鱼群、巨熊、蟒蛇和更多从未见过的海 岛生物甚至封闭环境中进化的“鬼猴”。为了使身边的女人不再遭受苦难 ，她再度回复了杀戮机器的本性，在林谷和泥淖中，在生与死的边缘奔跑 着，渴望篡改死亡名册。可离奇诡异的危险，一再出现，不给他们任何喘息的机会。",
+                                    "text": "杨川年幼时体弱多病，长到九岁命已垂危，遍访名医却无人可治，最后是被村子里一名剃头匠师傅连夜送去赶尸客栈才救了一条性命。然而，几乎很少有人知道剃头匠这行的门道，也很少有人知道剃头匠自古以来便是有专门官职的，一是“礼官”，负责帝王公爵的发型仪表。二是“髡（kun）刑官”，是断发为刑的刽子手。剃头削发有很多门道规矩，此行中的高手甚至能看面断脉，知人疾病生死。我是民间剃头匠人，说说这行里不为人知的禁忌与手段。",
                                     "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
                                     "height": 35
                                   },
@@ -660,13 +660,13 @@
                             "margin": "0px 3px",
                             "color": "rgb(0, 0, 0)",
                             "background": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
-                            "width": 6,
+                            "width": 7,
                             "position": "static",
                             "text": "",
                             "font": "normal normal bold normal 0px / 12px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
-                            "height": 6
+                            "height": 7
                           },
-                          "height": 6
+                          "height": 7
                         }
                       },
                       "height": 12
