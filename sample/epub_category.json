@@ -1,0 +1,171 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(219, 171, 88) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 62,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 40px / 42px tagIcon",
+            "height": 44
+          },
+          "height": 44
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "全部分类",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV.mod-card.is-nopadding[data-page=\"category\"]": {
+      "index": 9,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "16px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 80
+              },
+              "children": {
+                "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI>DIV.mod-book--items-info": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 294,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 46
+                  },
+                  "children": {
+                    "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI>DIV.mod-book--items-info>H1": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 294,
+                        "position": "static",
+                        "text": "小说",
+                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 20
+                      },
+                      "height": 20
+                    },
+                    "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI>DIV.mod-book--items-info>P": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "8px -2px 0px 0px",
+                        "color": "rgb(143, 143, 143)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 296,
+                        "position": "static",
+                        "text": "言情/武侠/悬疑等故事类",
+                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 18
+                      },
+                      "height": 18
+                    }
+                  },
+                  "height": 46
+                },
+                "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI>DIV.mod-img--wrap": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "47.5px 0px 0px",
+                    "margin": "0px 12px 0px 0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                    "width": 37,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 48
+                  },
+                  "children": {
+                    "body>DIV.mod-card.is-nopadding[data-page=\"category\"]>UL.mod-classify--publish>LI>DIV.mod-img--wrap>IMG": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 37,
+                        "position": "absolute",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 48
+                      },
+                      "height": 48
+                    }
+                  },
+                  "height": 48
+                }
+              },
+              "height": 80
+            }
+          },
+          "height": 1113
+        }
+      },
+      "height": 1113
+    }
+  }
+}

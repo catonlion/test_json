@@ -1,0 +1,481 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 99,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "书单详情",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV[data-page=\"booklist_detail\"]": {
+      "index": 10,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>ARTICLE": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "15px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 233
+              },
+              "children": {
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>ARTICLE>SECTION.booklist-recommend": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 345,
+                    "position": "static",
+                    "text": "从作者的构思到文笔的体现都展现了不凡的水平，人物的刻画，情节的描述，以及环境的描绘都能将读者引入一个独特的空间，有时候虽然主角被刻画的有些夸张却又能让读者的血液真正沸腾，而我们也正需要这样的不羁，狂傲，洒脱，敢爱敢恨，爱的起也恨得起！也向往在亲人需要自己的时候，也能真正站出来，用自己的肩膀抗下这一切，喜欢就是喜欢，，，，，，",
+                    "font": "normal normal normal normal 14px / 21px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 147
+                  },
+                  "height": 147
+                },
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>ARTICLE>H1": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 345,
+                    "position": "static",
+                    "text": "向～日～葵♥的书单",
+                    "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 20
+                  },
+                  "height": 20
+                },
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>ARTICLE>P.booklist-auther": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "10px 0px",
+                    "color": "rgb(76, 154, 250)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 345,
+                    "position": "static",
+                    "text": "向～日～葵♥",
+                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 233
+            },
+            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank": {
+              "index": 4,
+              "selectorIndex": 0,
+              "children": {
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 132
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 12px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                        "width": 76,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 100
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-img--wrap>IMG": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 76,
+                            "position": "absolute",
+                            "text": "",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 100
+                          },
+                          "height": 100
+                        }
+                      },
+                      "height": 100
+                    },
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>A.mod-btn.operation-right": {
+                      "index": 2,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 0px 2px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                        "width": 55,
+                        "position": "relative",
+                        "text": "加书架",
+                        "font": "normal normal normal normal 14px / 28px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 28
+                      },
+                      "height": 28
+                    },
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 198,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 50
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px -2px 0px 0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 200,
+                            "position": "static",
+                            "text": "仙逆",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        },
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "12px -2px 0px 0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 200,
+                            "position": "static",
+                            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 18
+                          },
+                          "children": {
+                            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.mod-rank>LI>DIV.mod-book--items-info>P>SPAN": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 8px 0px 0px",
+                                "color": "rgb(143, 143, 143)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 24,
+                                "position": "static",
+                                "text": "耳根",
+                                "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 16
+                              },
+                              "height": 16
+                            }
+                          },
+                          "height": 18
+                        }
+                      },
+                      "height": 50
+                    }
+                  },
+                  "height": 132
+                }
+              },
+              "height": 660
+            },
+            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>DIV.mod-tag.booklist-tags": {
+              "index": 1,
+              "selectorIndex": 0,
+              "children": {}
+            },
+            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>P.mod-amount": {
+              "index": 3,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "18px 15px 4px",
+                "margin": "0px",
+                "color": "rgb(143, 143, 143)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 38
+              },
+              "children": {
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>P.mod-amount>SPAN": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(143, 143, 143)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 7,
+                    "position": "static",
+                    "text": "5",
+                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 38
+            },
+            "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation": {
+              "index": 2,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px 15px 15px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 36
+              },
+              "children": {
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.favor": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 35,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 21
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.favor>A": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                        "width": 35,
+                        "position": "static",
+                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 16
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.favor>A>I.G-ico.G-ico-favor": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "-5px 3px -5px 0px",
+                            "color": "rgb(77, 77, 77)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 18,
+                            "position": "static",
+                            "text": "",
+                            "font": "normal normal normal normal 16px / 20px tagIcon",
+                            "height": 26
+                          },
+                          "height": 26
+                        }
+                      },
+                      "height": 16
+                    }
+                  },
+                  "height": 21
+                },
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.recommend": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 37,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 21
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.recommend>A": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                        "width": 37,
+                        "position": "static",
+                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 16
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.recommend>A>I.G-ico.G-ico-recommend": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "-5px 3px -5px 0px",
+                            "color": "rgb(77, 77, 77)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 20,
+                            "position": "static",
+                            "text": "",
+                            "font": "normal normal normal normal 16px / 20px tagIcon",
+                            "height": 26
+                          },
+                          "height": 26
+                        }
+                      },
+                      "height": 16
+                    }
+                  },
+                  "height": 21
+                },
+                "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.like": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 36,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 21
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.like>A": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                        "width": 36,
+                        "position": "static",
+                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 16
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"booklist_detail\"]>SECTION.mod-booklist-detail[data-view^=\"booklist/detail\"]>UL.booklist-operation>LI.like>A>I.G-ico.G-ico-like": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "-5px 3px -5px 0px",
+                            "color": "rgb(77, 77, 77)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 19,
+                            "position": "static",
+                            "text": "",
+                            "font": "normal normal normal normal 16px / 20px tagIcon",
+                            "height": 26
+                          },
+                          "height": 26
+                        }
+                      },
+                      "height": 16
+                    }
+                  },
+                  "height": 21
+                }
+              },
+              "height": 36
+            }
+          },
+          "height": 967
+        }
+      },
+      "height": 967
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "body>#bookIntroPage>SECTION.shelf-page>#introInfo>DIV.mod-book--detail[data-selector^=\"template-intro_info\"]>DIV.mod-book--detail-topic>DIV.mod-book--detail-info>DIV[data-selector^=\"book_info\"]>P>SPAN": "ignore"
+}

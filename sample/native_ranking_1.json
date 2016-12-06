@@ -1,0 +1,1717 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "排行",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#bookStorePage": {
+      "index": 1,
+      "selectorIndex": 0,
+      "children": {
+        "body>#bookStorePage>#storeTab": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>#bookStorePage>#storeTab>#_tab_dianji": {
+              "index": 1,
+              "selectorIndex": 0,
+              "children": {
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]": {
+                  "index": 3,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 280
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 280
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 190
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    }
+                                  },
+                                  "height": 98
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "阴尸美人",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "琴书骨",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 190
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "人气飙升榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_3_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 280
+                    }
+                  },
+                  "height": 280
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]": {
+                  "index": 4,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 280
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 280
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 190
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 158
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    }
+                                  },
+                                  "height": 98
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 52
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "我的女仆是恶魔",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 32
+                                      },
+                                      "height": 32
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "空明音",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 52
+                                }
+                              },
+                              "height": 158
+                            }
+                          },
+                          "height": 190
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "书友好评榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_4_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 280
+                    }
+                  },
+                  "height": 280
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 264
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 264
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 174
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "辰东",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "圣墟",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    }
+                                  },
+                                  "height": 98
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 174
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_2_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "免费畅读榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        }
+                      },
+                      "height": 264
+                    }
+                  },
+                  "height": 264
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 280
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 280
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "书友推荐榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 190
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    }
+                                  },
+                                  "height": 98
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "辰东",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "圣墟",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 190
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_1_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 280
+                    }
+                  },
+                  "height": 280
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]": {
+                  "index": 7,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 264
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 264
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 174
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "庞飞烟",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "炎玄九变",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    }
+                                  },
+                                  "height": 98
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 174
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_7_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "完本风云榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        }
+                      },
+                      "height": 264
+                    }
+                  },
+                  "height": 264
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]": {
+                  "index": 5,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 264
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 264
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "书友留存榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 174
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "单兵为王",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "七品",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_5_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    }
+                                  },
+                                  "height": 98
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 174
+                        }
+                      },
+                      "height": 264
+                    }
+                  },
+                  "height": 264
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]": {
+                  "index": 6,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 280
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 280
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>H1.is-single-line-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "书城热度榜",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 190
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 142
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>SPAN.G-tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 2px",
+                                        "margin": "0px",
+                                        "color": "rgb(255, 255, 255)",
+                                        "background": "rgb(245, 83, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 33,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 12px / 19.2px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 19
+                                      },
+                                      "height": 19
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    }
+                                  },
+                                  "height": 98
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 36
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "大主宰",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-book4col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(170, 170, 170)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "static",
+                                        "text": "天蚕土豆",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 36
+                                }
+                              },
+                              "height": 142
+                            }
+                          },
+                          "height": 190
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_6_group_list_3\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部书籍",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 280
+                    }
+                  },
+                  "height": 280
+                },
+                "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 44
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]>NAV.mod-nav": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 44
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]>NAV.mod-nav>UL": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]>NAV.mod-nav>UL>LI": {
+                              "index": 1,
+                              "selectorIndex": 1,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "relative",
+                                "text": "女生",
+                                "font": "normal normal normal normal 16px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_dianji>DIV[data-selector^=\"_dianji_0_nav_second\"]>NAV.mod-nav>UL>LI.current": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(232, 118, 70)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "relative",
+                                "text": "男生",
+                                "font": "normal normal normal normal 16px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 44
+                    }
+                  },
+                  "height": 44
+                }
+              },
+              "height": 2030
+            }
+          },
+          "height": 2030
+        }
+      },
+      "height": 2030
+    },
+    "body>#page-footer": {
+      "index": 13,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "36px 0px 16px",
+        "margin": "0px",
+        "color": "rgb(170, 170, 170)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "static",
+        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 88
+      },
+      "children": {
+        "body>#page-footer>P": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 18
+          },
+          "children": {
+            "body>#page-footer>P>A.disclaimer": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 4px",
+                "color": "rgb(170, 170, 170)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                "width": 48,
+                "position": "static",
+                "text": "意见反馈",
+                "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 16
+              },
+              "height": 16
+            }
+          },
+          "height": 18
+        }
+      },
+      "height": 88
+    }
+  }
+}

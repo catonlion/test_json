@@ -1,0 +1,474 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 99,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "发现",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV[data-page=\"discovery\"]": {
+      "index": 7,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV[data-page=\"discovery\"]>DIV[data-view^=\"common/banner_one\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 128
+          },
+          "children": {
+            "body>DIV[data-page=\"discovery\"]>DIV[data-view^=\"common/banner_one\"]>DIV.mod-banner": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "127.984px 0px 0px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 128
+              },
+              "children": {
+                "body>DIV[data-page=\"discovery\"]>DIV[data-view^=\"common/banner_one\"]>DIV.mod-banner>IMG": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "absolute",
+                    "text": "",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 128
+                  },
+                  "height": 128
+                }
+              },
+              "height": 128
+            }
+          },
+          "height": 128
+        },
+        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 96
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI>DIV.mod-items--info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 265,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 51
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI>DIV.mod-items--info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 265,
+                            "position": "static",
+                            "text": "书友排行",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        },
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI>DIV.mod-items--info>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "12px -2px 0px 0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 267,
+                            "position": "static",
+                            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 19
+                          },
+                          "children": {
+                            "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI>DIV.mod-items--info>P>SPAN.mod-taginline": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "1px 4px",
+                                "margin": "0px 8px 0px 0px",
+                                "color": "rgb(76, 154, 250)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 20,
+                                "position": "relative",
+                                "text": "新",
+                                "font": "normal normal normal normal 12px / 12px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 14
+                              },
+                              "height": 14
+                            }
+                          },
+                          "height": 19
+                        }
+                      },
+                      "height": 51
+                    },
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "64.4375px 0px 0px",
+                        "margin": "0px 13.7188px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(255, 162, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 64,
+                        "position": "relative",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 64
+                      },
+                      "height": 64
+                    }
+                  },
+                  "height": 96
+                },
+                "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-cartoon": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 96
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-cartoon>DIV.mod-items--info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 265,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 51
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-cartoon>DIV.mod-items--info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 265,
+                            "position": "static",
+                            "text": "热门漫画",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        },
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-cartoon>DIV.mod-items--info>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "12px -2px 0px 0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 267,
+                            "position": "static",
+                            "text": "最新最热的漫画，火热连载中",
+                            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 19
+                          },
+                          "height": 19
+                        }
+                      },
+                      "height": 51
+                    },
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-cartoon>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "64.4375px 0px 0px",
+                        "margin": "0px 13.7188px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(231, 82, 37) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 64,
+                        "position": "relative",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 64
+                      },
+                      "height": 64
+                    }
+                  },
+                  "height": 96
+                },
+                "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-circles": {
+                  "index": 3,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 96
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-circles>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "64.4375px 0px 0px",
+                        "margin": "0px 13.7188px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(12, 165, 77) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 64,
+                        "position": "relative",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 64
+                      },
+                      "height": 64
+                    },
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-circles>DIV.mod-items--info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 265,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 51
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-circles>DIV.mod-items--info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 265,
+                            "position": "static",
+                            "text": "话题广场",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        },
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-circles>DIV.mod-items--info>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "12px -2px 0px 0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 267,
+                            "position": "static",
+                            "text": "书友聚集地，神帖等你来发",
+                            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 19
+                          },
+                          "height": 19
+                        }
+                      },
+                      "height": 51
+                    }
+                  },
+                  "height": 96
+                },
+                "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-novel": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 96
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-novel>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "64.4375px 0px 0px",
+                        "margin": "0px 13.7188px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(55, 93, 130) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 64,
+                        "position": "relative",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 64
+                      },
+                      "height": 64
+                    },
+                    "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-novel>DIV.mod-items--info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 265,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 51
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-novel>DIV.mod-items--info>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "12px -2px 0px 0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 267,
+                            "position": "static",
+                            "text": "看不过瘾？真人为你来读书",
+                            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 19
+                          },
+                          "height": 19
+                        },
+                        "body>DIV[data-page=\"discovery\"]>DIV.mod-card.is-nopadding.is-margin-top8[data-view^=\"discovery/linktab\"]>UL.mod-discovery>LI.to-novel>DIV.mod-items--info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 265,
+                            "position": "static",
+                            "text": "有声小说",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        }
+                      },
+                      "height": 51
+                    }
+                  },
+                  "height": 96
+                }
+              },
+              "height": 386
+            }
+          },
+          "height": 386
+        }
+      },
+      "height": 526
+    }
+  }
+}

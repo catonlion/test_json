@@ -1,0 +1,19 @@
+{
+  "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-loading.relative[data-selector^=\"pull_loading\"]>DIV.loading>B.block": {
+    "width": 7,
+    "height": 7,
+    "problem_index": 0
+  },
+  "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item": {
+    "height": 124,
+    "problem_index": 0
+  },
+  "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content": {
+    "height": 92,
+    "problem_index": 1
+  },
+  "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-card>DIV.mod-comment.is-novel>UL.comment-list[data-view^=\"model/pull_comment\"][data-selector^=\"pull_list\"]>LI.comment-list-item>DIV.content>DIV.content-main": {
+    "height": 28,
+    "problem_index": 2
+  }
+}

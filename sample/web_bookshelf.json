@@ -1,0 +1,582 @@
+{
+  "children": {
+    "body>#divBookShelf": {
+      "index": 1,
+      "selectorIndex": 0,
+      "children": {
+        "body>#divBookShelf>#secBookShelf": {
+          "index": 1,
+          "selectorIndex": 0,
+          "children": {
+            "body>#divBookShelf>#secBookShelf>#divShelf": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI": {
+                          "index": 2,
+                          "selectorIndex": 2,
+                          "style": {
+                            "padding": "10px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                            "height": 114
+                          },
+                          "children": {
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.img-wrap": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgb(239, 236, 233) url(\"data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAyAAD/7gAOQWRvYmUAZMAAAAAB/9sAhAAIBgYGBgYIBgYIDAgHCAwOCggICg4QDQ0ODQ0QEQwODQ0ODBEPEhMUExIPGBgaGhgYIyIiIiMnJycnJycnJycnAQkICAkKCQsJCQsOCw0LDhEODg4OERMNDQ4NDRMYEQ8PDw8RGBYXFBQUFxYaGhgYGhohISAhIScnJycnJycnJyf/wAARCADaAKQDASIAAhEBAxEB/8QAbAABAAMBAQAAAAAAAAAAAAAAAAEDBAIHAQEBAAAAAAAAAAAAAAAAAAAAAhAAAgEDAgQFAQgDAAAAAAAAAAECESEDMUFRYXESgSIyEwRC8JGhscFSMxTR4SMRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APZM8259qdo/mzn280l6bc3QvWKKm53cne+1TslTC1KDpKqZqwwgksiq21vtxodZYe5Bx3+l8yjAs0ZUcWoPXut9wGoAAAAAAAAAAAAAAAAAAZ8snOfarqNklu9yF8eUvU1FcFc0KMVWipXUkDH/AF8nd20t+7YGwAAAAAAAAAAAAAAAAh3sBIM8suTG6NV4Nkwy5JaRquOiAvBC7t0vvJAAAAAAAAAAAAAAAAAAAAAAAAA5lGMlSSqVPHkh/E7cC8AcQ9yn/SleCOwAAAAAAAAAAAAAGX28zbtRutZPfoBqBjh8icbPzddi6GdStJUfHYC4AAAAAAAAAAAAAAAAAAAAAAAAAAUZcHc3OHqd2uLOcUY2jkhR/S2teRpAEJJKisuBIAAAAAAAAAAArnmhF9rq3vQCw493H+5GVZcii4N20rvTqIQnNpRVt5bIDWsmN2UlXgSRCEcapHxe7OgAAAAAAAAAAAAAAAAAAAAADmbcYtxVZbLmUx+O2vO6clr4s0ACp/HxtUSafGt/xKqz+PLta7oPSn21NQAhOqT48SQAAAAAAAAAAAAAAAAAIbUbt0OfcjRuul6CWOMnV68TiWGkX2uttGBampKq0JMWPJOFo6PZnfuzbq5eCA1Aqjkb1XiWJp6ASAAAAAAAAAAAAAAAAAAAAAAADJlgoTto7pF8cWNXUa9bnUoRn6lWmhMV2pJaLSoCi4CiJAAAAAAAAAAAAR9qFcnmpVKnJXZaAMc55E1JuSa42R1/Zk1Sirx/0ajPk+OlWUOvb/gBHPJepVX3F0ZxmqxZjhkgqKcFJLTje5rxzhONYKi00oB2AAAAAAAAAAAAAAAAAAAAAAAAAAKX8bE3WjXJN0LUlFKMVRLREgAAAAAAAAAAczfbCTrRpOgHQM8fk1j5l5vwZC+ROt0ny0A0g4hkjPSz4M7AAAAAAAAAAAAAAAAAAAAAAK8s3CNvU7IyqLlpFvjRVNDj7uVp+mFn11LUklRKi4AYXGUH5k11NUMGNJd3nb32JzY3khSPqTqqk4oShDtk68OXIA8WN/SvCx0lS1W+pIAAAAAAAAAAAAAAAAAAAAAAIolp1JAAAAAAAAAAA4nOONVe+iKMuXvhZOMk6ppgaTn3cX7kZvenOPZLxe7OYqU32xu/tqBtUoy9LT6Mkoj8dfXKr5WLI44x0cujbaA7AAAAAAAAAAAAAAAABxOagqu7eiM+TNJtSj5WrWYGoGX+zk5dKACcvdky9sb0sv1Ol8Z0vO/BKqO4eufp1+nXxLAMeTDLHfWL3NGFxcKxSUrKXgM/8M+hR8b+XfTb9QNgAAAAAAAAAAAAAAAABAFElPJkk0qJWTeiodrBBeqsnzt+RaAM/wDWXdXu8vDcGgAf/9k=\") no-repeat scroll 50% 50% / 70px padding-box border-box",
+                                "width": 70,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 93
+                              },
+                              "children": {
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.img-wrap>IMG": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / 70px padding-box border-box",
+                                    "width": 70,
+                                    "position": "static",
+                                    "text": "",
+                                    "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                    "height": 93
+                                  },
+                                  "height": 93
+                                }
+                              },
+                              "height": 93
+                            },
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.book-title": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "16px 0px 0px 15px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 270,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 77
+                              },
+                              "children": {
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.book-title>SPAN.book-author": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "8px 0px 0px",
+                                    "color": "rgb(65, 65, 65)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "text": "已读至：未开始 ",
+                                    "font": "normal normal normal normal 12px / 20px \"microsoft yahei\", Helvetica",
+                                    "height": 20
+                                  },
+                                  "height": 20
+                                },
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.book-title>SPAN.book-classify": {
+                                  "index": 2,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "7px 0px 0px",
+                                    "color": "rgb(65, 65, 65)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "text": "连载至：第3章 藏经阁",
+                                    "font": "normal normal normal normal 12px / 14px \"microsoft yahei\", Helvetica",
+                                    "height": 14
+                                  },
+                                  "height": 14
+                                },
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>SPAN.book-title>SPAN.book-name": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 0px 5px",
+                                    "color": "rgb(56, 56, 56)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 15px / 15px STHeitiSC-Medium",
+                                    "height": 15
+                                  },
+                                  "children": {},
+                                  "height": 15
+                                }
+                              },
+                              "height": 77
+                            },
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI>DIV": {
+                              "index": 3,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 0,
+                                "position": "static",
+                                "text": "",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 93
+                              },
+                              "height": 93
+                            }
+                          },
+                          "height": 114
+                        },
+                        "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "10px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                            "height": 114
+                          },
+                          "children": {
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>DIV": {
+                              "index": 3,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 0,
+                                "position": "static",
+                                "text": "",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 93
+                              },
+                              "height": 93
+                            },
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.img-wrap": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgb(239, 236, 233) url(\"data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAyAAD/7gAOQWRvYmUAZMAAAAAB/9sAhAAIBgYGBgYIBgYIDAgHCAwOCggICg4QDQ0ODQ0QEQwODQ0ODBEPEhMUExIPGBgaGhgYIyIiIiMnJycnJycnJycnAQkICAkKCQsJCQsOCw0LDhEODg4OERMNDQ4NDRMYEQ8PDw8RGBYXFBQUFxYaGhgYGhohISAhIScnJycnJycnJyf/wAARCADaAKQDASIAAhEBAxEB/8QAbAABAAMBAQAAAAAAAAAAAAAAAAEDBAIHAQEBAAAAAAAAAAAAAAAAAAAAAhAAAgEDAgQFAQgDAAAAAAAAAAECESEDMUFRYXESgSIyEwRC8JGhscFSMxTR4SMRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APZM8259qdo/mzn280l6bc3QvWKKm53cne+1TslTC1KDpKqZqwwgksiq21vtxodZYe5Bx3+l8yjAs0ZUcWoPXut9wGoAAAAAAAAAAAAAAAAAAZ8snOfarqNklu9yF8eUvU1FcFc0KMVWipXUkDH/AF8nd20t+7YGwAAAAAAAAAAAAAAAAh3sBIM8suTG6NV4Nkwy5JaRquOiAvBC7t0vvJAAAAAAAAAAAAAAAAAAAAAAAAA5lGMlSSqVPHkh/E7cC8AcQ9yn/SleCOwAAAAAAAAAAAAAGX28zbtRutZPfoBqBjh8icbPzddi6GdStJUfHYC4AAAAAAAAAAAAAAAAAAAAAAAAAAUZcHc3OHqd2uLOcUY2jkhR/S2teRpAEJJKisuBIAAAAAAAAAAArnmhF9rq3vQCw493H+5GVZcii4N20rvTqIQnNpRVt5bIDWsmN2UlXgSRCEcapHxe7OgAAAAAAAAAAAAAAAAAAAAADmbcYtxVZbLmUx+O2vO6clr4s0ACp/HxtUSafGt/xKqz+PLta7oPSn21NQAhOqT48SQAAAAAAAAAAAAAAAAAIbUbt0OfcjRuul6CWOMnV68TiWGkX2uttGBampKq0JMWPJOFo6PZnfuzbq5eCA1Aqjkb1XiWJp6ASAAAAAAAAAAAAAAAAAAAAAAADJlgoTto7pF8cWNXUa9bnUoRn6lWmhMV2pJaLSoCi4CiJAAAAAAAAAAAAR9qFcnmpVKnJXZaAMc55E1JuSa42R1/Zk1Sirx/0ajPk+OlWUOvb/gBHPJepVX3F0ZxmqxZjhkgqKcFJLTje5rxzhONYKi00oB2AAAAAAAAAAAAAAAAAAAAAAAAAAKX8bE3WjXJN0LUlFKMVRLREgAAAAAAAAAAczfbCTrRpOgHQM8fk1j5l5vwZC+ROt0ny0A0g4hkjPSz4M7AAAAAAAAAAAAAAAAAAAAAAK8s3CNvU7IyqLlpFvjRVNDj7uVp+mFn11LUklRKi4AYXGUH5k11NUMGNJd3nb32JzY3khSPqTqqk4oShDtk68OXIA8WN/SvCx0lS1W+pIAAAAAAAAAAAAAAAAAAAAAAIolp1JAAAAAAAAAAA4nOONVe+iKMuXvhZOMk6ppgaTn3cX7kZvenOPZLxe7OYqU32xu/tqBtUoy9LT6Mkoj8dfXKr5WLI44x0cujbaA7AAAAAAAAAAAAAAAABxOagqu7eiM+TNJtSj5WrWYGoGX+zk5dKACcvdky9sb0sv1Ol8Z0vO/BKqO4eufp1+nXxLAMeTDLHfWL3NGFxcKxSUrKXgM/8M+hR8b+XfTb9QNgAAAAAAAAAAAAAAAABAFElPJkk0qJWTeiodrBBeqsnzt+RaAM/wDWXdXu8vDcGgAf/9k=\") no-repeat scroll 50% 50% / 70px padding-box border-box",
+                                "width": 70,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 93
+                              },
+                              "children": {
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.img-wrap>IMG": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / 70px padding-box border-box",
+                                    "width": 70,
+                                    "position": "static",
+                                    "text": "",
+                                    "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                    "height": 93
+                                  },
+                                  "height": 93
+                                }
+                              },
+                              "height": 93
+                            },
+                            "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.book-title": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "16px 0px 0px 15px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 270,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                                "height": 77
+                              },
+                              "children": {
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.book-title>SPAN.book-author": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "8px 0px 0px",
+                                    "color": "rgb(65, 65, 65)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "text": "已读至：第519章 图穷匕见 ",
+                                    "font": "normal normal normal normal 12px / 20px \"microsoft yahei\", Helvetica",
+                                    "height": 20
+                                  },
+                                  "height": 20
+                                },
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.book-title>SPAN.book-name": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 0px 5px",
+                                    "color": "rgb(56, 56, 56)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 15px / 15px STHeitiSC-Medium",
+                                    "height": 16
+                                  },
+                                  "children": {
+                                    "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.book-title>SPAN.book-name>EM.tag": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "2px 3px",
+                                        "margin": "0px 4px 0px 0px",
+                                        "color": "rgb(248, 250, 253)",
+                                        "background": "rgb(233, 83, 48) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 30,
+                                        "position": "static",
+                                        "text": "更新",
+                                        "font": "normal normal normal normal 12px / 12px STHeitiSC-Medium",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 16
+                                },
+                                "body>#divBookShelf>#secBookShelf>#divShelf>DIV.hot-item-list>#shelf-books-list>LI.new>SPAN.book-title>SPAN.book-classify": {
+                                  "index": 2,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "7px 0px 0px",
+                                    "color": "rgb(65, 65, 65)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 270,
+                                    "position": "static",
+                                    "text": "连载至：第700章 横岭关（一）",
+                                    "font": "normal normal normal normal 12px / 14px \"microsoft yahei\", Helvetica",
+                                    "height": 14
+                                  },
+                                  "height": 14
+                                }
+                              },
+                              "height": 77
+                            }
+                          },
+                          "height": 114
+                        }
+                      },
+                      "height": 342
+                    }
+                  },
+                  "height": 342
+                }
+              },
+              "height": 619
+            },
+            "body>#divBookShelf>#secBookShelf>DIV.change-mode.shelf-list-mode": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "20px 0px 15px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                "height": 65
+              },
+              "children": {
+                "body>#divBookShelf>#secBookShelf>DIV.change-mode.shelf-list-mode>UL": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px 121.5px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 132,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                    "height": 30
+                  },
+                  "children": {
+                    "body>#divBookShelf>#secBookShelf>DIV.change-mode.shelf-list-mode>UL>#shelfmodeli": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 65,
+                        "position": "static",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / 30px \"microsoft yahei\", Helvetica",
+                        "height": 28
+                      },
+                      "height": 28
+                    },
+                    "body>#divBookShelf>#secBookShelf>DIV.change-mode.shelf-list-mode>UL>#shelflistmodeli": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(209, 204, 191) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 65,
+                        "position": "static",
+                        "text": "",
+                        "font": "normal normal normal normal 16px / 30px \"microsoft yahei\", Helvetica",
+                        "height": 28
+                      },
+                      "height": 28
+                    }
+                  },
+                  "height": 30
+                }
+              },
+              "height": 65
+            }
+          },
+          "height": 684
+        },
+        "body>#divBookShelf>HEADER.main-header": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "relative",
+            "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+            "height": 48
+          },
+          "children": {
+            "body>#divBookShelf>HEADER.main-header>#lnkStore": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "8px",
+                "margin": "0px",
+                "color": "rgb(255, 255, 255)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 48,
+                "position": "absolute",
+                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                "height": 32
+              },
+              "children": {
+                "body>#divBookShelf>HEADER.main-header>#lnkStore>SPAN.update": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(255, 255, 255)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 32,
+                    "position": "static",
+                    "text": "书城",
+                    "font": "normal normal normal normal 16px / 16px STHeitiSC-Medium",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 32
+            },
+            "body>#divBookShelf>HEADER.main-header>#aShelfLogin": {
+              "index": 2,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "8px",
+                "margin": "0px",
+                "color": "rgb(255, 255, 255)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 42,
+                "position": "absolute",
+                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                "height": 40
+              },
+              "children": {
+                "body>#divBookShelf>HEADER.main-header>#aShelfLogin>SPAN": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(255, 255, 255)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 0,
+                    "position": "static",
+                    "text": "",
+                    "font": "normal normal normal normal 16px / 16px STHeitiSC-Medium",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 40
+            },
+            "body>#divBookShelf>HEADER.main-header>#bookShelfEdit": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "8px",
+                "margin": "0px",
+                "color": "rgb(255, 255, 255)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 41,
+                "position": "absolute",
+                "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+                "height": 39
+              },
+              "children": {
+                "body>#divBookShelf>HEADER.main-header>#bookShelfEdit>SPAN": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(255, 255, 255)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 0,
+                    "position": "static",
+                    "text": "",
+                    "font": "normal normal normal normal 16px / 16px STHeitiSC-Medium",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 39
+            }
+          },
+          "height": 48
+        }
+      },
+      "height": 732
+    },
+    "body>#page-footer": {
+      "index": 9,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "10px 0px 15px",
+        "margin": "0px",
+        "color": "rgb(195, 193, 184)",
+        "background": "rgb(245, 245, 244) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 16px / 16px \"microsoft yahei\", Helvetica",
+        "height": 95
+      },
+      "children": {
+        "body>#page-footer>P.footer-links": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(195, 193, 184)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "relative",
+            "font": "normal normal normal normal 13px / 30px \"microsoft yahei\", Helvetica",
+            "height": 30
+          },
+          "children": {
+            "body>#page-footer>P.footer-links>#liaoliao3": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "4px",
+                "margin": "0px",
+                "color": "rgb(195, 193, 184)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 60,
+                "position": "static",
+                "text": "反馈意见",
+                "font": "normal normal normal normal 13px / 30px \"microsoft yahei\", Helvetica",
+                "height": 25
+              },
+              "height": 25
+            },
+            "body>#page-footer>P.footer-links>#liaoliao4": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "4px",
+                "margin": "0px",
+                "color": "rgb(195, 193, 184)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 60,
+                "position": "static",
+                "text": "免责声明",
+                "font": "normal normal normal normal 13px / 30px \"microsoft yahei\", Helvetica",
+                "height": 25
+              },
+              "height": 25
+            }
+          },
+          "height": 30
+        },
+        "body>#page-footer>P.copyright": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(195, 193, 184)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "text": "\n        Copyright © 2016 Tencent. All rights reserved.\n    ",
+            "font": "normal normal normal normal 12px / 20px \"microsoft yahei\", Helvetica",
+            "height": 20
+          },
+          "height": 20
+        }
+      },
+      "height": 95
+    }
+  }
+}

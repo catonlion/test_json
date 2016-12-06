@@ -1,0 +1,2499 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 42,
+            "position": "relative",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "children": {
+            "body>#bartitle>DIV.icon-search-wrap>I.G-ico.G-ico-search[data-selector^=\"search\"]": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px -2px 0px 0px",
+                "color": "rgb(255, 255, 255)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                "width": 44,
+                "position": "static",
+                "text": "",
+                "font": "normal normal normal normal 32px / 44px tagIcon",
+                "height": 44
+              },
+              "height": 44
+            }
+          },
+          "height": 44
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "书城",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#bookStorePage": {
+      "index": 1,
+      "selectorIndex": 0,
+      "children": {
+        "body>#bookStorePage>#storeTab": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>#bookStorePage>#storeTab>#_tab_tuijian": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]": {
+                  "index": 6,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "热门新书",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 375,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 132
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 12px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 76,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 100
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 100
+                                      },
+                                      "height": 100
+                                    }
+                                  },
+                                  "height": 100
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 255,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 95
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 255,
+                                        "position": "static",
+                                        "text": "神荒龙帝",
+                                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 20
+                                      },
+                                      "height": 20
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
+                                      "index": 2,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic>SPAN": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 8px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 36,
+                                            "position": "static",
+                                            "text": "妖月夜",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "text": "[玄幻]远古时期，神魔大战，天地崩碎！人族少年炼真龙之体，闯神荒，探帝墓，天地因他而变！",
+                                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 35
+                                      },
+                                      "height": 35
+                                    }
+                                  },
+                                  "height": 95
+                                }
+                              },
+                              "height": 132
+                            }
+                          },
+                          "height": 792
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_6_group_list_1\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "更多",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 882
+                    }
+                  },
+                  "height": 882
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 102
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "16px 8px 20px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 102
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance>UL": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "4px 0px 0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 359,
+                            "position": "static",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 66
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance>UL>LI.classify": {
+                              "index": 2,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "text": "分类",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 62
+                              },
+                              "height": 62
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance>UL>LI.free": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "text": "免费",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 62
+                              },
+                              "height": 62
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance>UL>LI.rank": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "text": "排行",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 62
+                              },
+                              "height": 62
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_2_nav_tab\"]>DIV.mod-card.classify-entrance>UL>LI.help": {
+                              "index": 3,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "text": "书友推书",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 62
+                              },
+                              "height": 62
+                            }
+                          },
+                          "height": 66
+                        }
+                      },
+                      "height": 102
+                    }
+                  },
+                  "height": 102
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]": {
+                  "index": 5,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 375,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 132
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 255,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 96
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
+                                      "index": 2,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic>SPAN": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 8px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 36,
+                                            "position": "static",
+                                            "text": "金三角",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "text": "[爽文]这是一个超级兵王被逆推的故事，也是老板娘变新娘的故事！金钱与老板娘能否得兼？",
+                                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 36
+                                      },
+                                      "height": 36
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 255,
+                                        "position": "static",
+                                        "text": "我的极品美女老板娘",
+                                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 20
+                                      },
+                                      "height": 20
+                                    }
+                                  },
+                                  "height": 96
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 12px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 76,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 100
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 100
+                                      },
+                                      "height": 100
+                                    }
+                                  },
+                                  "height": 100
+                                }
+                              },
+                              "height": 132
+                            }
+                          },
+                          "height": 792
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "更多",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_5_group_list_1\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "分类佳作",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        }
+                      },
+                      "height": 882
+                    }
+                  },
+                  "height": 882
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]": {
+                  "index": 9,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 244
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 244
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "热门大神",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "全部大神",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 8px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 154
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 8px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 90,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 122
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-gods4col--info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 74,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 16
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-gods4col--info>H1.is-god": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "static",
+                                        "text": "唐家三少",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 16
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "98.3281px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 74,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 98
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_9_biggod_list_card\"]>DIV.mod-card>UL.mod-book4col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 74,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 98
+                                      },
+                                      "height": 98
+                                    }
+                                  },
+                                  "height": 98
+                                }
+                              },
+                              "height": 122
+                            }
+                          },
+                          "height": 154
+                        }
+                      },
+                      "height": 244
+                    }
+                  },
+                  "height": 244
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]": {
+                  "index": 10,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "活动专题",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 4px 16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 176,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 146
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col>LI>DIV.mod-book2col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 168,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 18
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col>LI>DIV.mod-book2col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "8px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 168,
+                                        "position": "static",
+                                        "text": "万圣节写恐怖故事",
+                                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 18
+                                      },
+                                      "height": 18
+                                    }
+                                  },
+                                  "height": 18
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "103.672px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 168,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 104
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>UL.mod-book2col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 168,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 104
+                                      },
+                                      "height": 104
+                                    }
+                                  },
+                                  "height": 104
+                                }
+                              },
+                              "height": 146
+                            }
+                          },
+                          "height": 307
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_10_albumforum_list_card\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "更多专题",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 397
+                    }
+                  },
+                  "height": 397
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]": {
+                  "index": 4,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>DIV.mod-tag": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 16px",
+                            "margin": "13px 0px -8px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 42
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>DIV.mod-tag>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "8px 12px",
+                                "margin": "0px 8px 12px 0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 52,
+                                "position": "relative",
+                                "text": "科幻",
+                                "font": "normal normal normal normal 14px / 14px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 30
+                              },
+                              "height": 30
+                            }
+                          },
+                          "height": 42
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 3,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "更多",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "精品推荐",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 375,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 132
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 12px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 76,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 100
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 100
+                                      },
+                                      "height": 100
+                                    }
+                                  },
+                                  "height": 100
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 255,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 95
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 255,
+                                        "position": "static",
+                                        "text": "凌天战尊",
+                                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 20
+                                      },
+                                      "height": 20
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "text": "[玄幻]地球最强兵王魂穿异世，融轮回武帝记忆，修《九龙战尊诀》，所向披靡，战威无可敌！",
+                                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 35
+                                      },
+                                      "height": 35
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
+                                      "index": 2,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_4_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic>SPAN": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 8px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 36,
+                                            "position": "static",
+                                            "text": "风轻扬",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 95
+                                }
+                              },
+                              "height": 132
+                            }
+                          },
+                          "height": 792
+                        }
+                      },
+                      "height": 929
+                    }
+                  },
+                  "height": 929
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 84
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "16px 0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 84
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>DIV.mod-favor-switch-title": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 16px",
+                            "margin": "0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 34
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>DIV.mod-favor-switch-title>H1": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 16px",
+                                "color": "rgb(143, 143, 143)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 72,
+                                "position": "static",
+                                "text": "选择阅读喜好",
+                                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 16
+                              },
+                              "height": 16
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>DIV.mod-favor-switch-title>SPAN": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(143, 143, 143)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 16,
+                                "position": "relative",
+                                "text": "",
+                                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 16
+                              },
+                              "height": 16
+                            }
+                          },
+                          "height": 34
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>UL": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 18
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>UL>LI": {
+                              "index": 1,
+                              "selectorIndex": 1,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "relative",
+                                "text": "女生小说",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 18
+                              },
+                              "height": 18
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_0_change_preferences\"]>DIV.mod-favor-switch>UL>LI.selected": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(232, 118, 70)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "static",
+                                "text": "男生小说",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 18
+                              },
+                              "height": 18
+                            }
+                          },
+                          "height": 18
+                        }
+                      },
+                      "height": 84
+                    }
+                  },
+                  "height": 84
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]": {
+                  "index": 8,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "猜你喜欢",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>DIV.mod-view--all[data-selector^=\"more\"]": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>DIV.mod-view--all[data-selector^=\"more\"]>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "换一换",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 16px 16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 120,
+                                "position": "static",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 193
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "116.875px 0px 0px",
+                                    "margin": "0px 12px 8px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 88,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 117
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 88,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 117
+                                      },
+                                      "height": 117
+                                    }
+                                  },
+                                  "height": 117
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI>DIV.mod-book3col-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 88,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 52
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI>DIV.mod-book3col-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "4px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 88,
+                                        "position": "static",
+                                        "text": "三米半",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_8_guess_you_like\"]>DIV.mod-card>UL.mod-book3col>LI>DIV.mod-book3col-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px -2px 0px 0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 90,
+                                        "position": "static",
+                                        "text": "我的极品美女总裁",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 32
+                                      },
+                                      "height": 32
+                                    }
+                                  },
+                                  "height": 52
+                                }
+                              },
+                              "height": 193
+                            }
+                          },
+                          "height": 386
+                        }
+                      },
+                      "height": 476
+                    }
+                  },
+                  "height": 476
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 128
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 128
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 44,
+                            "position": "absolute",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 7
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count>DIV.inner": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 4px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 44,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 7
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count>DIV.inner>SPAN.current": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "3px 0px 0px 4px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 4,
+                                    "position": "static",
+                                    "text": "",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 4
+                                  },
+                                  "height": 4
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count>DIV.inner>SPAN": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "3px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(107, 107, 115) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 4,
+                                    "position": "static",
+                                    "text": "",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 4
+                                  },
+                                  "height": 4
+                                }
+                              },
+                              "height": 7
+                            }
+                          },
+                          "height": 7
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.slider": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 1875,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 128
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.slider>A.el": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "relative",
+                                "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 128
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.slider>A.el>IMG.img": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 375,
+                                    "position": "absolute",
+                                    "text": "",
+                                    "font": "normal normal normal normal 0px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 128
+                                  },
+                                  "height": 128
+                                }
+                              },
+                              "height": 128
+                            }
+                          },
+                          "height": 128
+                        }
+                      },
+                      "height": 128
+                    }
+                  },
+                  "height": 128
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]": {
+                  "index": 3,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 154
+                  },
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "-12px 0px 12px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 154
+                      },
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 154
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2": {
+                              "index": 2,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px 0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 153
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 125,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 121
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>FIGCAPTION": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 125,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 38
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>FIGCAPTION>H1": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px",
+                                            "color": "rgb(232, 118, 70)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "完本精品",
+                                            "font": "normal normal bold normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 18
+                                          },
+                                          "height": 18
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>FIGCAPTION>P": {
+                                          "index": 1,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "4px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "精选完本小说",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 38
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px 0px 0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "relative",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 67
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-main": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 52,
+                                            "position": "relative",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 67
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-main>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 52,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 67
+                                              },
+                                              "height": 67
+                                            }
+                                          },
+                                          "height": 67
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-right": {
+                                          "index": 2,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px 0px 0px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 41,
+                                            "position": "absolute",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 55
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-right>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 41,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 55
+                                              },
+                                              "height": 55
+                                            }
+                                          },
+                                          "height": 55
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-left": {
+                                          "index": 1,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px 0px 0px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 41,
+                                            "position": "absolute",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 55
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-2>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-left>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 41,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 55
+                                              },
+                                              "height": 55
+                                            }
+                                          },
+                                          "height": 55
+                                        }
+                                      },
+                                      "height": 67
+                                    }
+                                  },
+                                  "height": 121
+                                }
+                              },
+                              "height": 153
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px 0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 154
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 125,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 122
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>FIGCAPTION": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 125,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 38
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>FIGCAPTION>H1": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px",
+                                            "color": "rgb(232, 118, 70)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "追更免费",
+                                            "font": "normal normal bold normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 18
+                                          },
+                                          "height": 18
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>FIGCAPTION>P": {
+                                          "index": 1,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "4px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "最新3章免费读",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 38
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>DIV.mod-img--operation": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px 0px 0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 68,
+                                        "position": "relative",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 68
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>DIV.mod-img--operation>DIV.mod-img--operation-inner": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 68,
+                                            "position": "relative",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 68
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>DIV.mod-img--operation>DIV.mod-img--operation-inner>DIV.mod-img--wrap.is-img-main": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px 0px 0px -26px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                                "width": 52,
+                                                "position": "absolute",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 67
+                                              },
+                                              "children": {
+                                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-1>FIGURE>DIV.mod-img--operation>DIV.mod-img--operation-inner>DIV.mod-img--wrap.is-img-main>IMG": {
+                                                  "index": 0,
+                                                  "selectorIndex": 0,
+                                                  "style": {
+                                                    "padding": "0px",
+                                                    "margin": "0px",
+                                                    "color": "rgb(0, 0, 0)",
+                                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                    "width": 52,
+                                                    "position": "absolute",
+                                                    "text": "",
+                                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                    "height": 67
+                                                  },
+                                                  "height": 67
+                                                }
+                                              },
+                                              "height": 67
+                                            }
+                                          },
+                                          "height": 68
+                                        }
+                                      },
+                                      "height": 68
+                                    }
+                                  },
+                                  "height": 122
+                                }
+                              },
+                              "height": 154
+                            },
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px 0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 125,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 153
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 125,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 121
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>FIGCAPTION": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 125,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 38
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>FIGCAPTION>H1": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px",
+                                            "color": "rgb(232, 118, 70)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "人气好书",
+                                            "font": "normal normal bold normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 18
+                                          },
+                                          "height": 18
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>FIGCAPTION>P": {
+                                          "index": 1,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "4px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 125,
+                                            "position": "static",
+                                            "text": "热门小说畅快读",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 38
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px 0px 0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "relative",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 67
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-right": {
+                                          "index": 2,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px 0px 0px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 41,
+                                            "position": "absolute",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 55
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-right>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 41,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 55
+                                              },
+                                              "height": 55
+                                            }
+                                          },
+                                          "height": 55
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-main": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 52,
+                                            "position": "relative",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 67
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-main>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 52,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 67
+                                              },
+                                              "height": 67
+                                            }
+                                          },
+                                          "height": 67
+                                        },
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-left": {
+                                          "index": 1,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 12px 0px 0px",
+                                            "color": "rgb(0, 0, 0)",
+                                            "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                            "width": 41,
+                                            "position": "absolute",
+                                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 55
+                                          },
+                                          "children": {
+                                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_3_banner_three\"]>DIV.mod-card.mod-recommand.is-nopadding>UL>LI.cover-0>FIGURE>DIV.mod-img--multi>DIV.mod-img--wrap.is-img-bg.is-img-left>IMG": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(0, 0, 0)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 41,
+                                                "position": "absolute",
+                                                "text": "",
+                                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 55
+                                              },
+                                              "height": 55
+                                            }
+                                          },
+                                          "height": 55
+                                        }
+                                      },
+                                      "height": 67
+                                    }
+                                  },
+                                  "height": 121
+                                }
+                              },
+                              "height": 153
+                            }
+                          },
+                          "height": 154
+                        }
+                      },
+                      "height": 154
+                    }
+                  },
+                  "height": 154
+                },
+                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]": {
+                  "index": 7,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px 0px 12px",
+                            "margin": "0px 16px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 343,
+                            "position": "relative",
+                            "text": "畅销推荐",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 46
+                          },
+                          "height": 46
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 375,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 132
+                              },
+                              "children": {
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 12px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 76,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 100
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 76,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 100
+                                      },
+                                      "height": 100
+                                    }
+                                  },
+                                  "height": 100
+                                },
+                                "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 255,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 96
+                                  },
+                                  "children": {
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "text": "[爽文]三妈、四妈、六妈，我滴乖乖，老爹你到底有多少女人？那我一定要青出于蓝而胜于蓝！",
+                                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 36
+                                      },
+                                      "height": 36
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 255,
+                                        "position": "static",
+                                        "text": "极品逍遥大少爷",
+                                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 20
+                                      },
+                                      "height": 20
+                                    },
+                                    "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
+                                      "index": 2,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "12px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 257,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "children": {
+                                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>UL.mod-book--items>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic>SPAN": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px",
+                                            "margin": "0px 8px 0px 0px",
+                                            "color": "rgb(143, 143, 143)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 48,
+                                            "position": "static",
+                                            "text": "俺是老王",
+                                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 16
+                                          },
+                                          "height": 16
+                                        }
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 96
+                                }
+                              },
+                              "height": 132
+                            }
+                          },
+                          "height": 792
+                        },
+                        "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>DIV.mod-view--all": {
+                          "index": 2,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_7_group_list_1\"]>DIV.mod-card>DIV.mod-view--all>A": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "text": "更多",
+                                "font": "normal normal normal normal 14px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 882
+                    }
+                  },
+                  "height": 882
+                }
+              },
+              "height": 5244
+            }
+          },
+          "height": 5244
+        }
+      },
+      "height": 5244
+    },
+    "body>#page-footer": {
+      "index": 13,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "36px 0px 16px",
+        "margin": "0px",
+        "color": "rgb(170, 170, 170)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "static",
+        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 88
+      },
+      "children": {
+        "body>#page-footer>P": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 18
+          },
+          "children": {
+            "body>#page-footer>P>A.disclaimer": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 4px",
+                "color": "rgb(170, 170, 170)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                "width": 48,
+                "position": "static",
+                "text": "意见反馈",
+                "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 16
+              },
+              "height": 16
+            }
+          },
+          "height": 18
+        }
+      },
+      "height": 88
+    }
+  }
+}

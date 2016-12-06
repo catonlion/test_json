@@ -1,0 +1,404 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "土豪英雄榜",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV[data-page=\"rank_detail\"]": {
+      "index": 8,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "20px 0px",
+            "margin": "0px 0px 8px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 134
+          },
+          "children": {
+            "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px 16px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 56
+              },
+              "children": {
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user>SPAN.avatar-wrapper": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "55.6094px 0px 0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgb(210, 210, 210) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 56,
+                    "position": "relative",
+                    "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 56
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user>SPAN.avatar-wrapper>IMG": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 56,
+                        "position": "absolute",
+                        "text": "",
+                        "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 56
+                      },
+                      "height": 56
+                    }
+                  },
+                  "height": 56
+                },
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user>SPAN.other-usr-info": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(143, 143, 143)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 29,
+                    "position": "static",
+                    "text": "0Q米",
+                    "font": "normal normal normal normal 12px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 24
+                  },
+                  "height": 24
+                },
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user>FIGCAPTION": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px 0px 0px 12px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 247,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 17
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>FIGURE.mod-user>FIGCAPTION>H1": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 247,
+                        "position": "static",
+                        "text": "靓仔",
+                        "font": "normal normal normal normal 16px / 17.6px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 17
+                      },
+                      "height": 17
+                    }
+                  },
+                  "height": 17
+                }
+              },
+              "height": 56
+            },
+            "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>P.club-info": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "14px 16px 0px",
+                "margin": "20px 0px -6px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 14px / 10px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 24
+              },
+              "children": {
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-club--info[data-view^=\"rank/user_rank\"]>P.club-info>A": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(76, 154, 250)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                    "width": 48,
+                    "position": "static",
+                    "text": "如何上榜",
+                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 16
+                  },
+                  "height": 16
+                }
+              },
+              "height": 24
+            }
+          },
+          "height": 134
+        },
+        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 74
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>DIV.mod-book--items-info": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>DIV.mod-book--items-info>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "children": {}
+                        }
+                      }
+                    },
+                    "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>DIV.mod-img--wrap": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "41.7031px 0px 0px",
+                        "margin": "0px 12px 0px 0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(229, 229, 229) none no-repeat scroll 50% 50% / 43% padding-box border-box",
+                        "width": 42,
+                        "position": "relative",
+                        "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 42
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>DIV.mod-img--wrap>IMG": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 42,
+                            "position": "absolute",
+                            "text": "",
+                            "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 42
+                          },
+                          "height": 42
+                        },
+                        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>DIV.mod-img--wrap>SPAN.ico-crown": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) url(\"http://3gimg.qq.com/mig-web/2015/qqbrowser/novel/img/icon-crown.png\") no-repeat scroll 0% 0% / cover padding-box border-box",
+                            "width": 17,
+                            "position": "absolute",
+                            "text": "",
+                            "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 16
+                          },
+                          "height": 16
+                        }
+                      },
+                      "height": 42
+                    },
+                    "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>SPAN.operation-right": {
+                      "index": 2,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 0px 2px",
+                        "color": "rgb(143, 143, 143)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 64,
+                        "position": "static",
+                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 24
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-card.is-nopadding[data-view^=\"rank/ranklist\"]>UL.mod-book--club.is-rank-list>LI>SPAN.operation-right>SPAN.G-ico.G-ico-coin": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(77, 77, 77)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 14,
+                            "position": "static",
+                            "text": "",
+                            "font": "normal normal normal normal 20px / 24px tagIcon",
+                            "height": 24
+                          },
+                          "height": 24
+                        }
+                      },
+                      "height": 24
+                    }
+                  },
+                  "height": 74
+                }
+              },
+              "height": 7370
+            }
+          },
+          "height": 7370
+        },
+        "body>DIV[data-page=\"rank_detail\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "12px",
+            "margin": "0px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 54
+          },
+          "children": {
+            "body>DIV[data-page=\"rank_detail\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 351,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 30
+              },
+              "children": {
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL>LI.current": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(255, 255, 255)",
+                    "background": "rgb(102, 102, 102) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 117,
+                    "position": "relative",
+                    "text": "总榜",
+                    "font": "normal normal normal normal 12px / 30px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 30
+                  },
+                  "height": 30
+                },
+                "body>DIV[data-page=\"rank_detail\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(102, 102, 102)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 117,
+                    "position": "relative",
+                    "text": "本周",
+                    "font": "normal normal normal normal 12px / 30px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 30
+                  },
+                  "height": 30
+                }
+              },
+              "height": 30
+            }
+          },
+          "height": 54
+        }
+      },
+      "height": 7566
+    }
+  }
+}

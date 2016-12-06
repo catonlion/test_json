@@ -1,0 +1,14 @@
+{
+  "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count": {
+    "width": 36,
+    "problem_index": 0
+  },
+  "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.count>DIV.inner": {
+    "width": 36,
+    "problem_index": 1
+  },
+  "body>#bookStorePage>#storeTab>#_tab_tuijian>DIV[data-selector^=\"_tuijian_1_swipe_banner\"]>DIV.mod-banner>DIV.slider": {
+    "width": 1500,
+    "problem_index": 0
+  }
+}

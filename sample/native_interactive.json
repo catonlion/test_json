@@ -1,0 +1,738 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 48,
+            "position": "relative",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "children": {
+            "body>#bartitle>DIV.icon-search-wrap>I.mod-header-btn-right[data-selector^=\"right\"]": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px 16px 0px 0px",
+                "margin": "0px",
+                "color": "rgb(255, 255, 255)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 48,
+                "position": "static",
+                "text": "规则",
+                "font": "normal normal normal normal 16px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 44
+              },
+              "height": 44
+            }
+          },
+          "height": 44
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 99,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "投票互动",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#divInteractive": {
+      "index": 9,
+      "selectorIndex": 0,
+      "children": {
+        "body>#divInteractive>#recommBookRank": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 156
+          },
+          "children": {
+            "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "12px 16px",
+                "margin": "0px 0px 12px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 156
+              },
+              "children": {
+                "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>P.mod-vote--tips": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "12px 0px 0px",
+                    "color": "rgb(143, 143, 143)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 343,
+                    "position": "static",
+                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 16
+                  },
+                  "children": {
+                    "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>P.mod-vote--tips>SPAN": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(76, 154, 250)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 84,
+                        "position": "static",
+                        "text": "本周书友推荐榜",
+                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 16
+                      },
+                      "height": 16
+                    }
+                  },
+                  "height": 16
+                },
+                "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-operation--btn.colm-1": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "24px 0px 0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 343,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 36
+                  },
+                  "children": {
+                    "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-operation--btn.colm-1>LI.btn-main.is-short": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 28px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 287,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 36
+                      },
+                      "children": {
+                        "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-operation--btn.colm-1>LI.btn-main.is-short>SPAN": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px 71.5px",
+                            "color": "rgb(255, 255, 255)",
+                            "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 144,
+                            "position": "relative",
+                            "text": "投推荐票",
+                            "font": "normal normal normal normal 14px / 36px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 36
+                          },
+                          "height": 36
+                        }
+                      },
+                      "height": 36
+                    }
+                  },
+                  "height": 36
+                },
+                "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-vote--information": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "8px 0px 24px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 343,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 36
+                  },
+                  "children": {
+                    "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-vote--information>LI": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 122,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 36
+                      },
+                      "children": {
+                        "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-vote--information>LI>H1": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 122,
+                            "position": "static",
+                            "text": "本周得票",
+                            "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 16
+                          },
+                          "height": 16
+                        },
+                        "body>#divInteractive>#recommBookRank>DIV.mod-vote-detail.is-mod-card>UL.mod-vote--information>LI>P": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 122,
+                            "position": "static",
+                            "text": "0",
+                            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 20
+                          },
+                          "height": 20
+                        }
+                      },
+                      "height": 36
+                    }
+                  },
+                  "height": 36
+                }
+              },
+              "height": 156
+            }
+          },
+          "height": 156
+        },
+        "body>#divInteractive>#bookBasicInfo": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 177
+          },
+          "children": {
+            "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "17px 0px",
+                "margin": "0px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 177
+              },
+              "children": {
+                "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>defs": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "children": {
+                            "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>defs>#Mask": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "children": {
+                                "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>defs>#Mask>rect": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "children": {},
+                                  "height": 493
+                                }
+                              }
+                            },
+                            "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>defs>#blur": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "children": {
+                                "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>defs>#blur>feGaussianBlur": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>DIV.svg-wrapper>svg>image": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "children": {},
+                          "height": 493
+                        }
+                      },
+                      "height": 493
+                    }
+                  },
+                  "height": 493
+                },
+                "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>FIGURE": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px 101.25px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 173,
+                    "position": "relative",
+                    "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 143
+                  },
+                  "children": {
+                    "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>FIGURE>DIV.img-wrapper": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 43.25px 12px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 86,
+                        "position": "relative",
+                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 113
+                      },
+                      "children": {
+                        "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>FIGURE>DIV.img-wrapper>IMG": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 86,
+                            "position": "absolute",
+                            "text": "",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 113
+                          },
+                          "height": 113
+                        }
+                      },
+                      "height": 113
+                    },
+                    "body>#divInteractive>#bookBasicInfo>DIV.mod-booktopic>FIGURE>FIGCAPTION": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 173,
+                        "position": "static",
+                        "text": "天才学生",
+                        "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 18
+                      },
+                      "height": 18
+                    }
+                  },
+                  "height": 143
+                }
+              },
+              "height": 177
+            }
+          },
+          "height": 177
+        },
+        "body>#divInteractive>#fansRankContent": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {
+            "body>#divInteractive>#fansRankContent>DIV.mod-card": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV": {
+                  "index": 1,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 78
+                      },
+                      "children": {
+                        "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 0px 19px",
+                            "margin": "0px 0px 5px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 78
+                          },
+                          "children": {
+                            "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 356,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 78
+                              },
+                              "children": {
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-book--items-info": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 207,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 46
+                                  },
+                                  "children": {
+                                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-book--items-info>P": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "8px -2px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 209,
+                                        "position": "static",
+                                        "text": "暂未入榜",
+                                        "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 18
+                                      },
+                                      "height": 18
+                                    },
+                                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-book--items-info>H1": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 207,
+                                        "position": "static",
+                                        "text": "靓仔",
+                                        "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 20
+                                      },
+                                      "height": 20
+                                    }
+                                  },
+                                  "height": 46
+                                },
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-img--wrap": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "39.3906px 0px 0px",
+                                    "margin": "0px 12px 0px 0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgb(229, 229, 229) none no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                    "width": 39,
+                                    "position": "relative",
+                                    "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 39
+                                  },
+                                  "children": {
+                                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-img--wrap>SPAN.ico-crown": {
+                                      "index": 1,
+                                      "selectorIndex": 0,
+                                      "children": {}
+                                    },
+                                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>DIV.mod-img--wrap>IMG": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 39,
+                                        "position": "absolute",
+                                        "text": "",
+                                        "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 39
+                                      },
+                                      "height": 39
+                                    }
+                                  },
+                                  "height": 39
+                                },
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#myFansRank>UL.mod-book--club.is-aboutme>LI>SPAN.operation-right": {
+                                  "index": 2,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px 0px 0px 2px",
+                                    "color": "rgb(143, 143, 143)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 64,
+                                    "position": "static",
+                                    "text": "0票",
+                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 16
+                                  },
+                                  "height": 16
+                                }
+                              },
+                              "height": 78
+                            }
+                          },
+                          "height": 78
+                        }
+                      },
+                      "height": 78
+                    },
+                    "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 74
+                          },
+                          "children": {
+                            "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>DIV.mod-book--items-info": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 204,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 20
+                              },
+                              "children": {
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>DIV.mod-book--items-info>H1": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(36, 36, 36)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 204,
+                                    "position": "static",
+                                    "text": "..........",
+                                    "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 20
+                                  },
+                                  "height": 20
+                                }
+                              },
+                              "height": 20
+                            },
+                            "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>SPAN.operation-right": {
+                              "index": 2,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 0px 0px 2px",
+                                "color": "rgb(143, 143, 143)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 64,
+                                "position": "static",
+                                "text": "5票",
+                                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 16
+                              },
+                              "height": 16
+                            },
+                            "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>DIV.mod-img--wrap": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "41.7031px 0px 0px",
+                                "margin": "0px 12px 0px 0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgb(229, 229, 229) none no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                "width": 42,
+                                "position": "relative",
+                                "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 42
+                              },
+                              "children": {
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>DIV.mod-img--wrap>SPAN.ico-crown": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) url(\"http://3gimg.qq.com/mig-web/2015/qqbrowser/novel/img/icon-crown.png\") no-repeat scroll 0% 0% / cover padding-box border-box",
+                                    "width": 17,
+                                    "position": "absolute",
+                                    "text": "",
+                                    "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 16
+                                  },
+                                  "height": 16
+                                },
+                                "body>#divInteractive>#fansRankContent>DIV.mod-card>DIV>#fansRankList>LI>DIV.mod-img--wrap>IMG": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 42,
+                                    "position": "absolute",
+                                    "text": "",
+                                    "font": "normal normal normal normal 20px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 42
+                                  },
+                                  "height": 42
+                                }
+                              },
+                              "height": 42
+                            }
+                          },
+                          "height": 74
+                        }
+                      },
+                      "height": 369
+                    }
+                  },
+                  "height": 452
+                },
+                "body>#divInteractive>#fansRankContent>DIV.mod-card>H1": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "16px 0px 12px",
+                    "margin": "0px 16px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 343,
+                    "position": "relative",
+                    "text": "粉丝榜",
+                    "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 46
+                  },
+                  "height": 46
+                }
+              },
+              "height": 498
+            }
+          },
+          "height": 498
+        }
+      },
+      "height": 843
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "body>DIV[data-page=\"comment\"]>DIV[data-view^=\"container\"]>DIV[data-view^=\"container\"]>DIV.mod-loading.relative[data-selector^=\"pull_loading\"]>DIV.loading>B.block": {
+    "width": 6,
+    "height": 6
+  }
+}

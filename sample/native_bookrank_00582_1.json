@@ -1,0 +1,242 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "书友推荐榜",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#bookStoreList": {
+      "index": 2,
+      "selectorIndex": 0,
+      "children": {
+        "body>#bookStoreList>SECTION.store-page": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>#bookStoreList>SECTION.store-page>#otherList": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]": {
+                      "index": 3,
+                      "selectorIndex": 2,
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 123
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>H1": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "16px 0px 12px",
+                                "margin": "0px 16px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 343,
+                                "position": "relative",
+                                "text": "2016年11月",
+                                "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 46
+                              },
+                              "height": 46
+                            },
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "14px 8px 20px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 375,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 77
+                              },
+                              "children": {
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col>LI": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px 4px 8px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 120,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 16px / 35.04px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 43
+                                  },
+                                  "children": {
+                                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>UL[data-selector^=\"container\"]>DIV.mod-card.is-nomargin>UL.mod-classify3col>LI>A": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px",
+                                        "color": "rgb(0, 0, 0)",
+                                        "background": "rgb(239, 239, 239) none repeat scroll 0px 0px / auto padding-box border-box",
+                                        "width": 112,
+                                        "position": "static",
+                                        "text": "第1周",
+                                        "font": "normal normal normal normal 16px / 35.04px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 35
+                                      },
+                                      "height": 35
+                                    }
+                                  },
+                                  "height": 43
+                                }
+                              },
+                              "height": 77
+                            }
+                          },
+                          "height": 123
+                        }
+                      },
+                      "height": 1076
+                    },
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>DIV.mod-nav": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 44
+                      },
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>DIV.mod-nav>UL": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 44
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>DIV.mod-nav>UL>LI[data-selector^=\"nav\"]": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(102, 102, 102)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 94,
+                                "position": "relative",
+                                "text": "本周",
+                                "font": "normal normal normal normal 16px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            },
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding>DIV.mod-nav>UL>LI.current[data-selector^=\"nav\"]": {
+                              "index": 2,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(232, 118, 70)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 94,
+                                "position": "relative",
+                                "text": "更多",
+                                "font": "normal normal normal normal 16px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 44
+                              },
+                              "height": 44
+                            }
+                          },
+                          "height": 44
+                        }
+                      },
+                      "height": 44
+                    }
+                  },
+                  "height": 1120
+                }
+              },
+              "height": 1120
+            }
+          },
+          "height": 1120
+        }
+      },
+      "height": 1120
+    }
+  }
+}

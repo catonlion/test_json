@@ -1,0 +1,161 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 99,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "我的书单",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV[data-page=\"booklist_mine\"]": {
+      "index": 9,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "12px",
+            "margin": "0px",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 375,
+            "position": "static",
+            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 54
+          },
+          "children": {
+            "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 351,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 30
+              },
+              "children": {
+                "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL>LI.current": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(255, 255, 255)",
+                    "background": "rgb(102, 102, 102) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 176,
+                    "position": "relative",
+                    "text": "我的发布",
+                    "font": "normal normal normal normal 12px / 30px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 30
+                  },
+                  "height": 30
+                },
+                "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-subnav[data-view^=\"common/tabnav\"]>UL>LI": {
+                  "index": 1,
+                  "selectorIndex": 1,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(102, 102, 102)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 176,
+                    "position": "relative",
+                    "text": "我的收藏",
+                    "font": "normal normal normal normal 12px / 30px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 30
+                  },
+                  "height": 30
+                }
+              },
+              "height": 30
+            }
+          },
+          "height": 54
+        },
+        "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-card.is-nopadding[data-view^=\"booklist/list\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-card.is-nopadding[data-view^=\"booklist/list\"]>DIV.record-null": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>DIV[data-page=\"booklist_mine\"]>DIV.mod-card.is-nopadding[data-view^=\"booklist/list\"]>DIV.record-null>P": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(170, 170, 170)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "text": "您尚未发布书单",
+                    "font": "normal normal normal normal 18px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 24
+                  },
+                  "height": 24
+                }
+              },
+              "height": 587
+            }
+          },
+          "height": 587
+        }
+      },
+      "height": 641
+    }
+  }
+}

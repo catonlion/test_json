@@ -1,0 +1,420 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "我的账户",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>DIV[data-page=\"account\"]": {
+      "index": 6,
+      "selectorIndex": 0,
+      "children": {
+        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 12px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "relative",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 121
+              },
+              "children": {
+                "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "28px 16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 121
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.is-recharge": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 172,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 65
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.is-recharge>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 172,
+                            "position": "static",
+                            "font": "normal normal normal normal 14px / 31px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 39
+                          },
+                          "children": {
+                            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.is-recharge>H1>SPAN": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 3px 0px -2px",
+                                "color": "rgb(232, 118, 70)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 38,
+                                "position": "static",
+                                "text": "60",
+                                "font": "normal normal normal normal 36.008px / 31px qbnumber",
+                                "height": 50
+                              },
+                              "height": 50
+                            }
+                          },
+                          "height": 39
+                        },
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.is-recharge>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "8px 0px 0px",
+                            "color": "rgb(76, 154, 250)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 172,
+                            "position": "static",
+                            "text": "去充值",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 18
+                          },
+                          "height": 18
+                        }
+                      },
+                      "height": 65
+                    },
+                    "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.mod-account-bean": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 172,
+                        "position": "static",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 65
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.mod-account-bean>P": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "8px 0px 0px",
+                            "color": "rgb(76, 154, 250)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 172,
+                            "position": "static",
+                            "text": "去查看",
+                            "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 18
+                          },
+                          "height": 18
+                        },
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.mod-account-bean>H1": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px 0px 1px",
+                            "margin": "0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 172,
+                            "position": "static",
+                            "font": "normal normal normal normal 14px / 31px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 39
+                          },
+                          "children": {
+                            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV.mod-card.mod-account>UL>LI.mod-account-bean>H1>SPAN": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 3px 0px -2px",
+                                "color": "rgb(232, 118, 70)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 53,
+                                "position": "static",
+                                "text": "970",
+                                "font": "normal normal normal normal 36.008px / 31px qbnumber",
+                                "height": 50
+                              },
+                              "height": 50
+                            }
+                          },
+                          "height": 39
+                        }
+                      },
+                      "height": 65
+                    }
+                  },
+                  "height": 121
+                }
+              },
+              "height": 121
+            },
+            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV[data-selector^=\"accMessage\"]": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 38
+              },
+              "children": {
+                "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV[data-selector^=\"accMessage\"]>DIV.mod-message[data-view^=\"usercenter/acc_message\"]": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "6px 16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 38
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV[data-selector^=\"accMessage\"]>DIV.mod-message[data-view^=\"usercenter/acc_message\"]>P": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 343,
+                        "position": "relative",
+                        "font": "normal normal normal normal 12px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 26
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV[data-selector^=\"accMessage\"]>DIV.mod-message[data-view^=\"usercenter/acc_message\"]>P>SPAN.G-ico.G-ico-horn": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px 4px 0px -1px",
+                            "color": "rgb(232, 118, 70)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 24,
+                            "position": "static",
+                            "text": "",
+                            "font": "normal normal normal normal 24px / 24px tagIcon",
+                            "height": 24
+                          },
+                          "height": 24
+                        },
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>DIV[data-selector^=\"accMessage\"]>DIV.mod-message[data-view^=\"usercenter/acc_message\"]>P>A": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(76, 154, 250)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                            "width": 36,
+                            "position": "static",
+                            "text": "去充值",
+                            "font": "normal normal normal normal 12px / 24px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 24
+                          },
+                          "height": 24
+                        }
+                      },
+                      "height": 26
+                    }
+                  },
+                  "height": 38
+                }
+              },
+              "height": 38
+            },
+            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>P.mod-tips": {
+              "index": 2,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px 16px",
+                "margin": "-4px 0px 20px",
+                "color": "rgb(143, 143, 143)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "text": "1元=10Q米=100书豆；购买时将优先扣除书豆。",
+                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 16
+              },
+              "height": 16
+            },
+            "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>UL.mod-item--arrow": {
+              "index": 3,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 12px",
+                "color": "rgb(0, 0, 0)",
+                "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 375,
+                "position": "static",
+                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 96
+              },
+              "children": {
+                "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>UL.mod-item--arrow>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px 0px 0px 16px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "static",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 48
+                  },
+                  "children": {
+                    "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>UL.mod-item--arrow>LI>A": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px 16px 0px 0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+                        "width": 359,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 48
+                      },
+                      "children": {
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>UL.mod-item--arrow>LI>A>SPAN.item-content": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(36, 36, 36)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 338,
+                            "position": "static",
+                            "text": "充值记录",
+                            "font": "normal normal normal normal 16px / 48px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 48
+                          },
+                          "height": 48
+                        },
+                        "body>DIV[data-page=\"account\"]>DIV[data-view^=\"usercenter/account\"]>UL.mod-item--arrow>LI>A>SPAN.G-ico": {
+                          "index": 1,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px -2px 0px 0px",
+                            "color": "rgb(191, 191, 191)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 7,
+                            "position": "relative",
+                            "text": "",
+                            "font": "normal normal normal normal 16px / 48px tagIcon",
+                            "height": 48
+                          },
+                          "height": 48
+                        }
+                      },
+                      "height": 48
+                    }
+                  },
+                  "height": 48
+                }
+              },
+              "height": 96
+            }
+          },
+          "height": 359
+        }
+      },
+      "height": 359
+    }
+  }
+}

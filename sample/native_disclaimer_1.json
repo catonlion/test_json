@@ -1,0 +1,176 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 99,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "投诉指引",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#divDisclaimer": {
+      "index": 10,
+      "selectorIndex": 0,
+      "children": {
+        "body>#divDisclaimer>DIV.disclaimer-box": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>#divDisclaimer>DIV.disclaimer-box>OL": {
+              "index": 4,
+              "selectorIndex": 0,
+              "children": {
+                "body>#divDisclaimer>DIV.disclaimer-box>OL>LI": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px 0px 10px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 316,
+                    "position": "static",
+                    "text": "权利人主体信息和相关材料：权利人的姓名（公司名称）、联系方式、地址、营业执照（单位）或者身份证（个人）、相关授权证明等证明权利人主体资格的材料；",
+                    "font": "normal normal normal normal 14px / 22.4px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 88
+                  },
+                  "height": 88
+                },
+                "body>#divDisclaimer>DIV.disclaimer-box>OL>OL": {
+                  "index": 3,
+                  "selectorIndex": 0,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px 0px 0px 19px",
+                    "color": "rgb(36, 36, 36)",
+                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 297,
+                    "position": "static",
+                    "font": "normal normal normal normal 14px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 142
+                  },
+                  "children": {
+                    "body>#divDisclaimer>DIV.disclaimer-box>OL>OL>LI": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px 0px 10px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 297,
+                        "position": "static",
+                        "text": "权利人拥有权利的权属证明材料：包括但不限于有权机构颁发的版权证书、作品首次公开发表或发行日期证明材料、创作手稿、经权威机构签发的作品创作时间戳、作品备案证书等能证明权利人拥有相关权利的有效权属证明；",
+                        "font": "normal normal normal normal 14px / 22.4px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 110
+                      },
+                      "height": 110
+                    }
+                  },
+                  "height": 142
+                }
+              },
+              "height": 576
+            },
+            "body>#divDisclaimer>DIV.disclaimer-box>P": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 15px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 335,
+                "position": "static",
+                "text": "QQ浏览器不断更新技术，带给您优质的上网体验，同时，QQ浏览器一贯重视保障权利人的知识产权及其他权利，倡导知识产权保护。",
+                "font": "normal normal normal normal 14px / 22.4px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 66
+              },
+              "height": 66
+            },
+            "body>#divDisclaimer>DIV.disclaimer-box>P.AR": {
+              "index": 12,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 15px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 335,
+                "position": "static",
+                "text": "腾讯公司 ",
+                "font": "normal normal normal normal 14px / 22.4px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 22
+              },
+              "height": 22
+            },
+            "body>#divDisclaimer>DIV.disclaimer-box>H2": {
+              "index": 2,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "16px 0px 5px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 335,
+                "position": "static",
+                "text": "一、通知腾讯",
+                "font": "normal normal bold normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 20
+              },
+              "height": 20
+            }
+          },
+          "height": 2524
+        }
+      },
+      "height": 2524
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>DIV.icon-search-wrap": {
+          "index": 2,
+          "selectorIndex": 0,
+          "children": {}
+        },
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word[data-selector^=\"back\"]": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title[data-selector^=\"title\"]": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "都市",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#bookStoreList": {
+      "index": 2,
+      "selectorIndex": 0,
+      "children": {
+        "body>#bookStoreList>SECTION.store-page": {
+          "index": 0,
+          "selectorIndex": 0,
+          "children": {
+            "body>#bookStoreList>SECTION.store-page>#otherList": {
+              "index": 0,
+              "selectorIndex": 0,
+              "children": {
+                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame": {
+                  "index": 2,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "16px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "relative",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 132
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-img--wrap": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px 12px 0px 0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgb(229, 229, 229) url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEUAAAD29vb4+Pj09PTy8vLt7e3////09PT////t7e3t7e3////////t7e3t7e3z8/P////6+vr////////t7e3////t7e3t7e3////t7e3t7e3////////t7e3////////t7e3////t7e3////29vb29vb////t7e35+fn19fXt7e3t7e3////////////t7e3////t7e3////////t7e3////t7e3t7e3t7e3////////////t7e3t7e3////t7e3X1kZEAAAAPnRSTlMAARsTD69mB+7u686vZlwyFgT06djX09C2tamomYyLcXFcWD83LQ0MBQLm5eLa0s2+vLuhm5aSkHxjW0w9JU1td+AAAAEJSURBVFjD7dbHbsQgFIXhg+u429N7r+m9B97/rSILJUzEwgmsrOHf83GXByaASQVhdzBJLfzKepv2r1oNKvUNyF3PdwBvO4uolATIhQkBAOKJjysAKdcH/JhSZYC5hMRUB2CJR/WAbkcTYPS0APxU2Jv0IRRAa7zI7AKA46CsCuD5yRkHLjwfompA5LglMNoCigAOQ0bHBOoA9r2ogA6AjxX0AMAABjCAAQxggNoCRwVtd56JB+tZ3Gn8f+L0Uj51F5HyRrq1gfxGZ2S17fxSb6UN+rXaiXUF5HbO53r5Mjw/Bpp309fVJrcP+HskmwQcaI7e91DKeSqBewvqLRn1oNXzI/Syqu7/Ah2F9c7DCRHcAAAAAElFTkSuQmCC\") no-repeat scroll 50% 50% / 43% padding-box border-box",
+                                "width": 76,
+                                "position": "relative",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 100
+                              },
+                              "children": {
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-img--wrap>IMG": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(0, 0, 0)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 76,
+                                    "position": "absolute",
+                                    "text": "",
+                                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 100
+                                  },
+                                  "height": 100
+                                }
+                              },
+                              "height": 100
+                            },
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-book--items-info": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(0, 0, 0)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 255,
+                                "position": "static",
+                                "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 95
+                              },
+                              "children": {
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic": {
+                                  "index": 2,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "12px -2px 0px 0px",
+                                    "color": "rgb(143, 143, 143)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 257,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 16
+                                  },
+                                  "children": {
+                                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-book--items-info>P.mod-book--items-info-basic>SPAN": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px",
+                                        "margin": "0px 8px 0px 0px",
+                                        "color": "rgb(143, 143, 143)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 48,
+                                        "position": "static",
+                                        "text": "鱼人二代",
+                                        "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 16
+                                      },
+                                      "height": 16
+                                    }
+                                  },
+                                  "height": 16
+                                },
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-book--items-info>H1": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(36, 36, 36)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 255,
+                                    "position": "static",
+                                    "text": "校花的贴身高手",
+                                    "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 20
+                                  },
+                                  "height": 20
+                                },
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-card.is-nopadding.is-card-frame>UL.mod-book--items[data-selector^=\"container\"]>LI>DIV.mod-book--items-info>P": {
+                                  "index": 1,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "12px -2px 0px 0px",
+                                    "color": "rgb(143, 143, 143)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 257,
+                                    "position": "static",
+                                    "text": "传奇杀手回归都市，奉旨泡妞保护校花！校花闺蜜缠上我，霸道总裁赖上我，火辣警花追上我，温柔护士爱上我！可是……我是校花的贴身高手啊，你们最好离我远一点，不然大小姐又要吃醋了！",
+                                    "font": "normal normal normal normal 12px / 18px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 35
+                                  },
+                                  "height": 35
+                                }
+                              },
+                              "height": 95
+                            }
+                          },
+                          "height": 132
+                        }
+                      },
+                      "height": 2640
+                    }
+                  },
+                  "height": 2640
+                },
+                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container": {
+                  "index": 1,
+                  "selectorIndex": 1,
+                  "style": {
+                    "padding": "0px",
+                    "margin": "0px",
+                    "color": "rgb(0, 0, 0)",
+                    "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                    "width": 375,
+                    "position": "relative",
+                    "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                    "height": 176
+                  },
+                  "children": {
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "8px 0px",
+                        "margin": "0px",
+                        "color": "rgb(0, 0, 0)",
+                        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "relative",
+                        "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 176
+                      },
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 40
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 0px 0px 16px",
+                                "margin": "0px 16px 0px 0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 359,
+                                "position": "relative",
+                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 40
+                              },
+                              "children": {
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(36, 36, 36)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 343,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 40
+                                  },
+                                  "children": {
+                                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 16px 0px 0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 248,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 40
+                                      },
+                                      "children": {
+                                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px 16px 0px 0px",
+                                            "margin": "0px",
+                                            "color": "rgb(36, 36, 36)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 232,
+                                            "position": "static",
+                                            "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 40
+                                          },
+                                          "children": {
+                                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list>LI.selected": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(232, 118, 70)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 56,
+                                                "position": "static",
+                                                "text": "阅读最多",
+                                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 40
+                                              },
+                                              "height": 40
+                                            },
+                                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list>LI": {
+                                              "index": 1,
+                                              "selectorIndex": 1,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px 0px 0px 20px",
+                                                "color": "rgb(36, 36, 36)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 56,
+                                                "position": "static",
+                                                "text": "得票最高",
+                                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 40
+                                              },
+                                              "height": 40
+                                            }
+                                          },
+                                          "height": 40
+                                        }
+                                      },
+                                      "height": 40
+                                    }
+                                  },
+                                  "height": 40
+                                }
+                              },
+                              "height": 40
+                            }
+                          },
+                          "height": 40
+                        }
+                      },
+                      "height": 176
+                    }
+                  },
+                  "height": 176
+                },
+                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close": {
+                  "index": 0,
+                  "selectorIndex": 0,
+                  "children": {
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options": {
+                      "index": 1,
+                      "selectorIndex": 0,
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(0, 0, 0)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 16px / normal \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 40
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px 0px 0px 16px",
+                                "margin": "0px 16px 0px 0px",
+                                "color": "rgb(36, 36, 36)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 359,
+                                "position": "relative",
+                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 40
+                              },
+                              "children": {
+                                "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller": {
+                                  "index": 0,
+                                  "selectorIndex": 0,
+                                  "style": {
+                                    "padding": "0px",
+                                    "margin": "0px",
+                                    "color": "rgb(36, 36, 36)",
+                                    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                    "width": 343,
+                                    "position": "static",
+                                    "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                    "height": 40
+                                  },
+                                  "children": {
+                                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper": {
+                                      "index": 0,
+                                      "selectorIndex": 0,
+                                      "style": {
+                                        "padding": "0px 16px 0px 0px",
+                                        "margin": "0px",
+                                        "color": "rgb(36, 36, 36)",
+                                        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                        "width": 248,
+                                        "position": "static",
+                                        "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                        "height": 40
+                                      },
+                                      "children": {
+                                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list": {
+                                          "index": 0,
+                                          "selectorIndex": 0,
+                                          "style": {
+                                            "padding": "0px 16px 0px 0px",
+                                            "margin": "0px",
+                                            "color": "rgb(36, 36, 36)",
+                                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                            "width": 232,
+                                            "position": "static",
+                                            "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                            "height": 40
+                                          },
+                                          "children": {
+                                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list>LI.selected": {
+                                              "index": 0,
+                                              "selectorIndex": 0,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px",
+                                                "color": "rgb(232, 118, 70)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 56,
+                                                "position": "static",
+                                                "text": "阅读最多",
+                                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 40
+                                              },
+                                              "height": 40
+                                            },
+                                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-options>DIV.mod-select-option-container>DIV.scroll-container>DIV.x-scroller>DIV.wrapper>UL.select-list>LI": {
+                                              "index": 1,
+                                              "selectorIndex": 1,
+                                              "style": {
+                                                "padding": "0px",
+                                                "margin": "0px 0px 0px 20px",
+                                                "color": "rgb(36, 36, 36)",
+                                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                                "width": 56,
+                                                "position": "static",
+                                                "text": "得票最高",
+                                                "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                                "height": 40
+                                              },
+                                              "height": 40
+                                            }
+                                          },
+                                          "height": 40
+                                        }
+                                      },
+                                      "height": 40
+                                    }
+                                  },
+                                  "height": 40
+                                }
+                              },
+                              "height": 40
+                            }
+                          },
+                          "height": 40
+                        }
+                      }
+                    },
+                    "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-control": {
+                      "index": 0,
+                      "selectorIndex": 0,
+                      "style": {
+                        "padding": "0px",
+                        "margin": "0px",
+                        "color": "rgb(36, 36, 36)",
+                        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+                        "width": 375,
+                        "position": "absolute",
+                        "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                        "height": 40
+                      },
+                      "children": {
+                        "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-control>DIV.mod-select-tip": {
+                          "index": 0,
+                          "selectorIndex": 0,
+                          "style": {
+                            "padding": "0px",
+                            "margin": "0px",
+                            "color": "rgb(143, 143, 143)",
+                            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                            "width": 375,
+                            "position": "static",
+                            "font": "normal normal normal normal 14px / 40px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                            "height": 40
+                          },
+                          "children": {
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-control>DIV.mod-select-tip>I.G-ico.G-ico-arr-down": {
+                              "index": 1,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(77, 77, 77)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 10,
+                                "position": "static",
+                                "text": "",
+                                "font": "normal normal normal normal 14px / 40px tagIcon",
+                                "height": 40
+                              },
+                              "height": 40
+                            },
+                            "body>#bookStoreList>SECTION.store-page>#otherList>DIV.mod-select-container.fixed.close>DIV.mod-select-control>DIV.mod-select-tip>SPAN.selected-tag": {
+                              "index": 0,
+                              "selectorIndex": 0,
+                              "style": {
+                                "padding": "0px",
+                                "margin": "0px",
+                                "color": "rgb(143, 143, 143)",
+                                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                                "width": 48,
+                                "position": "static",
+                                "text": "阅读最多",
+                                "font": "normal normal normal normal 12px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                                "height": 16
+                              },
+                              "height": 16
+                            }
+                          },
+                          "height": 40
+                        }
+                      },
+                      "height": 40
+                    }
+                  }
+                }
+              },
+              "height": 2816
+            }
+          },
+          "height": 2816
+        }
+      },
+      "height": 2816
+    }
+  }
+}

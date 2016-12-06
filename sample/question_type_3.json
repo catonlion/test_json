@@ -1,0 +1,142 @@
+{
+  "children": {
+    "body>#bartitle": {
+      "index": 0,
+      "selectorIndex": 0,
+      "style": {
+        "padding": "0px",
+        "margin": "0px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(232, 118, 70) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": 375,
+        "position": "relative",
+        "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+        "height": 44
+      },
+      "children": {
+        "body>#bartitle>A.header-subname.G-ico.G-ico-arr-back.with-word": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 0px 16px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box",
+            "width": 67,
+            "position": "static",
+            "text": "",
+            "font": "normal normal normal normal 18px / 44px tagIcon",
+            "height": 52
+          },
+          "height": 52
+        },
+        "body>#bartitle>P.header-title": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 225,
+            "position": "absolute",
+            "text": "推荐票",
+            "font": "normal normal normal normal 18px / 44px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 44
+          },
+          "height": 44
+        }
+      },
+      "height": 44
+    },
+    "body>#tjpDiv": {
+      "index": 3,
+      "selectorIndex": 0,
+      "children": {
+        "body>#tjpDiv>DL.about-book-coupon": {
+          "index": 1,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px",
+            "margin": "0px",
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 335,
+            "position": "static",
+            "font": "normal normal normal normal 14px / 16px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 255
+          },
+          "children": {
+            "body>#tjpDiv>DL.about-book-coupon>DD": {
+              "index": 1,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 19px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 335,
+                "position": "static",
+                "text": "它是一种虚拟道具，投推荐票可以让您喜爱的作品上榜，获得更多的支持。",
+                "font": "normal normal normal normal 14px / 19.6px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 38
+              },
+              "height": 38
+            },
+            "body>#tjpDiv>DL.about-book-coupon>DT": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 0px 8px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 335,
+                "position": "static",
+                "text": "1.推荐票是什么？",
+                "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+                "height": 20
+              },
+              "height": 20
+            }
+          },
+          "height": 255
+        },
+        "body>#tjpDiv>#tjpNumDiv": {
+          "index": 0,
+          "selectorIndex": 0,
+          "style": {
+            "padding": "0px 0px 20px",
+            "margin": "0px 0px 27px",
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "width": 335,
+            "position": "relative",
+            "font": "normal normal normal normal 16px / 20px \"Helvetica Neue\", Roboto, \"microsoft yahei\"",
+            "height": 47
+          },
+          "children": {
+            "body>#tjpDiv>#tjpNumDiv>#tjpNum": {
+              "index": 0,
+              "selectorIndex": 0,
+              "style": {
+                "padding": "0px",
+                "margin": "0px 4px 0px 0px",
+                "color": "rgb(36, 36, 36)",
+                "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                "width": 36,
+                "position": "static",
+                "text": "2",
+                "font": "normal normal normal normal 54px / 20px qbnumber",
+                "height": 75
+              },
+              "height": 75
+            }
+          },
+          "height": 47
+        }
+      },
+      "height": 382
+    }
+  }
+}
